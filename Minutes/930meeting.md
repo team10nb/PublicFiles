@@ -1,7 +1,5 @@
 # Team 10 - 3rd Meeting 
 
-<br>
-
 ## Information
 
 **Time:** 2020.9.30 15:00~15:45
@@ -24,7 +22,6 @@
 <br>
 
 ------
-<br>
 
 ## Agenda
 
@@ -51,12 +48,9 @@
 
 ------
 
-<br>
-
-
 ## Minute
 
-#### Outcomes
+### Outcomes
 
 1. CVs should be spell checked. Some details will be checked after the meeting (Time spent: 5 minutes)
 2. Selection and order arrangement of 3 projects (Time spent: 30 minutes)
@@ -77,10 +71,11 @@
 	- **Time:** 3 p.m. 4/10/2020
 	- Acceptance and discussion of biding document. Plan what to do in the next stage.
 
+<br>
+
 -------
 
-
-#### Work summary for last stage
+### Work summary for last stage
 
 | **Task**                             | **Members** | **Report** | **Question**                             | **Completeness**                                |
 | ------------------------------------ | ----------- | ---------- | ---------------------------------------- | ----------------------------------------------- |
@@ -89,7 +84,7 @@
 
 <br>
 
-#### Tasks 
+### Tasks 
 
 | **Task**                                  | **Members**   | **DDL** |
 | ----------------------------------------- | ------------- | ------- |
@@ -101,7 +96,7 @@
 
 <br>
 
-#### Problems
+### Problems
 
 | **Priority(0 for highest, 5 for lowest）** | **Problem Description**                                      | **Possible consequence** | **Proposer** | **Tentative Solution**                     | **Expected completion time** |
 | ------------------------------------------ | ------------------------------------------------------------ | ------------------------ | ------------ | ------------------------------------------ | ---------------------------- |
@@ -111,8 +106,6 @@
 <br>
 
 -------
-
-<br>
 
 ## Comments
 
