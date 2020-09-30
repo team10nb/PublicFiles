@@ -1,0 +1,9 @@
+dataset
+*.asv
+datasets
+results
+adaptive_results.mat
+*.avi
+vec_seq1.mat
+*.mat
+*.MOV

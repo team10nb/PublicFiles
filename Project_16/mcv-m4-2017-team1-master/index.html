@@ -1,0 +1,157 @@
+﻿<!DOCTYPE HTML>
+<!--
+	Alpha by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>SafeDrive</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header" class="alt">
+					<h1><a href="index.html">Alpha</a> by HTML5 UP</h1>
+
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<h2>M4 Team 1. SafeDrive</h2>
+					<p>Road traffic surveillance and monitoring system</p>
+					<ul class="actions">
+						<li><a href="https://docs.google.com/presentation/d/1NZLTL-QDq9m6DN5pzyP7y-NhgoAymA5-76OgPpYTE44/edit?usp=sharing" class="button special">Presentation slides</a></li>
+						<li><a href="https://github.com/mcv-m4-video/mcv-m4-2017-team1" class="button">Source code</a></li>
+						<li><a href="https://github.com/mcv-m4-video/mcv-m4-2017-team1/blob/master/m4-t1-report.pdf" class="button">Paper</a></li>
+					</ul>
+				</section>
+
+			<!-- Main -->
+				<section id="main" class="container">
+
+					<section class="box special">
+						<header class="major">
+							<h2> Using computer vision as a tool in the roads </h2>
+							<p>Our solution detects, tracks and monitors the velocity of cars in a road in order to prevent any possible accidents or any exceeded speed limitations.</p>
+						</header>
+						<span class="image featured"><img  width="1200" height="500" src="images/first.jpg" alt="" /> <div class="topleft"><font size="2">Banner image source: http://bsnscb.com  <br>Image source: http://www.walldevil.com</font></div></span>
+						
+						<p>  The goal of our system is to improve the safety of different roads anywhere in the world, where speeding causes thousands of deaths every year.
+We have developed a prototype system in Matlab that allows us to detect, track and estimate the velocity of cars within a road. Other measures we can provide are:
+<ul>
+<li>The current density of the road (low, medium or high)</li>
+<li>The number of cars in each lane</li>
+<li>Instant photos of cars which surpass speed limitation</li>
+</ul>
+</p>
+					</section>
+
+					<section class="box special features">
+						<div class="features-row">
+							<section>
+								<span class="icon major fa-check-square accent2"></span>
+								<h3>Vehicle detection</h3>
+								<p>
+								<ul><li>Performing a background/foreground segmentation of every frame in the video we are able to separate moving cars from static road background.</li>
+								<li>Background is modeled with a single adaptive Gaussian model per pixel.</li>
+								<li>This block outputs a binary segmented image, refined with morphological operators to eliminate noise and fix disconnected regions.</li>
+								</ul></p>
+							</section>
+							<section>
+								<span class="icon major fa-car accent3"></span>
+								<h3>Vehicle tracking</h3>
+								<p><ul><li>To obtain a correct road geometry homography is applied to the segmented and original images. </li>
+								<li>After detecting blobs in the refined binary segmented image, Kalman filters are applied to track the cars.</li>
+								<li>A cost function is defined to decide whether a detection is part of a previous tracked car or not.</li></ul></p>
+							</section>
+						</div>
+						<div class="features-row">
+							<section>
+								<span class="icon major fa-forward accent4"></span>
+								<h3>Speed control</h3>
+								<p><ul><li>Defining a relation between pixels/meters and frames/seconds, speed can be estimated following the tracked car coordinates.</li>
+								<li>An ID and the speed of each car is presented in the final system, together with a bounding box following the car</li></ul></p>
+							</section>
+							<section>
+								<span class="icon major fa-area-chart accent3"></span>
+								<h3>Statistical report</h3>
+								<p>The final statistics we can obtain are:
+								<ul>
+								<li> Density of the road at each frame</li>
+								<li> Number of cars in each lane at each frame</li>
+								<li> Total number of cars in a sequence </li>
+								<li> Total number and the images of cars which have exceeded the speed limit </li>
+								</ul>
+							</section>
+						</div>
+					</section>
+
+					<div class="row">
+						<div class="6u 12u(narrower)">
+
+							<section class="box special">
+								<span class="image featured"><img  width="576" height="256" src="images/highway.jpg" alt="" /></span>
+								<h3>Our results on ChangeDetection Video Database</h3>
+								<p>Toy examples with a highway and a jitter sequence</p>
+								<ul class="actions">
+									<li><a href="dataset_videos.html" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+
+						</div>
+						<div class="6u 12u(narrower)">
+
+							<section class="box special">
+								<span class="image featured"><img  width="576" height="256" src="images/ronda.png" alt="" /></span>
+								<h3>Our results on a recorded video</h3>
+								<p><br>The video has been recorded in Barcelona during the day</p>
+								<ul class="actions">
+									<li><a href="custom_videos.html" class="button alt">Learn More</a></li>
+								</ul>
+							</section>
+
+						</div>
+					</div>
+
+				</section>
+
+			<!-- CTA -->
+				<section id="cta">
+
+					<h2>Contact us</h2>
+						<ul class="icons">
+						<li> Arantxa Casanova <br/><a href="https://www.linkedin.com/in/arantxa-casanova-pag%C3%A0-619834138" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li>Sergio Castro<br/><a href="https://www.linkedin.com/in/sergio-castro-036a2783" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li>Belén Luque <br/><a href="https://es.linkedin.com/in/bel%25C3%25A9n-luque-l%25C3%25B3pez-ab5046bb" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						</ul>
+					
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul>
+						<li><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</li>
+						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollgress.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

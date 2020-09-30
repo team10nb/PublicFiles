@@ -1,2 +1,2 @@
 # PublicFiles
-This is a test sentence
+This is the public space for storing minutes files etc.
