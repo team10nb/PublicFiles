@@ -1,7 +1,5 @@
 # Team 10 - ?th Meeting 
 
-<br>
-
 ## Information
 
 **Time:** 2020.x.xx xx:xx~xx:xx
@@ -24,7 +22,6 @@
 <br>
 
 ------
-<br>
 
 ## Agenda
 
@@ -33,10 +30,13 @@
 *The whole meeting is expected to take xx minutes.*
 
 1. xxx (About xx minutes)
+
 	- 
 2. xxx (About xx minutes)
+
 	- 
 3. xxx (About xx minutes)
+
 	- 
 4. Rasing questions and allocate tasks of next stage (About xx minutes)
 	- Decide the chairperson and secretary of next meeting
@@ -47,21 +47,22 @@
 
 ------
 
-<br>
-
 ## Minute
 
 （这部分归 Sec 写）
 
-#### Outcomes
+### Outcomes
 
 （根据上面的Agenda来分点写，是否完成，结果如何。不要每句话都记，要记会议进程里讨论出的最终内容）
 
 1. xxx (Time spent: x minutes)
+
 	- 
 2. xxx (Time spent: x minutes)
+
 	- 
 3. xxx (unsolved)
+
 	- 
 4. Preparation for next meeting (Time spent: x minutes)
 	- **Chairperson:** 
@@ -69,10 +70,12 @@
 	- **Time:** 
 	- (下次会议简略内容)
 
+<br>
+
 -------
 
 
-#### Work summary for last stage
+### Work summary for last stage
 
 | **Task** | **Members** | **Report** | **Question** | **Completeness** |
 | -------- | --------- | -------- | -------- | ---------- |
@@ -82,7 +85,7 @@
 
 <br>
 
-#### Tasks 
+### Tasks 
 
 | **Task** | **Members** | **DDL** |
 | -------- | ---------- | ------- |
@@ -93,7 +96,7 @@
 
 <br>
 
-#### Problems
+### Problems
 
 | **Priority(0 for highest, 5 for lowest）** | **Problem Description** | **Possible consequence** | **Proposer** | **Tentative Solution** | **Expected completion time** |
 | -------------------------- | ------------ | ------------ | ---------- | ---------------- | ---------------- |
@@ -104,8 +107,6 @@
 <br>
 
 -------
-
-<br>
 
 ## Comments
 
