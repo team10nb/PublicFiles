@@ -14,7 +14,7 @@
 
 **Translator:**  Yuting JIANG
 
-**Attendence: **6/6
+**Attendence:** 6/6
 
 | **Members** | **Yiming Tang, Shiliang Chen, <br>Yani Huang, Ruizi Han, <br>Yijie Lu, Yuting Jiang** |
 | ----------- | ------------------------------------------------------------ |
@@ -32,21 +32,21 @@
 
 1. discussion of form (About 20 minutes)
 
-​     \- the form might contain the contents, reference, and prototype (up to the bids’ content)
+- the form might contain the contents, reference, and prototype (up to the bids’ content)
 
 2. every team comes up questions when they wrote the bid, other partners give some suggestions. (About 15 minutes)
 
-​     \- difficulty and confusion about the project of 16, 20, 12
+- difficulty and confusion about the project of 16, 20, 12
 
 3. every team illustrates their idea of the bid (About 20 minutes)
 
 4. Allocating tasks of next stage (About 5 minutes)
 
-​     \- Decide the chairperson and secretary of next meeting
+- Decide the chairperson and secretary of next meeting
 
-​     \- Decide the specific time of next meeting
+- Decide the specific time of next meeting
 
-​     \- Confirm and go through next stage's tasks
+- Confirm and go through next stage's tasks
 
 <br>
 
@@ -60,29 +60,21 @@
 
 1. Bidding form discussion (Time spent: 10 minutes)
 
-​     \-
-
 2. Go through the three draft biddings (Time spent: 5 minutes)
-
-​     \-
 
 3. Talk about the problem of three draft biddings (Time spent: 20 minutes)
 
-​     \-
-
 4. Talk about the comprehension of three projects (Time spent: 20 minutes)
-
-  \-
 
 5. Preparation for next meeting (Time spent: 5 minutes)
 
-​     \- **Chairperson: Yani HUANG** 
+- **Chairperson: Yani HUANG** 
 
-​     \- **Secretary: Ruizi HAN** 
+- **Secretary: Ruizi HAN** 
 
-​     \- **Time: 6/10/2020** 
+- **Time: 6/10/2020** 
 
-​     \- Confirm three biddings and submit
+- Confirm three biddings and submit
 
 -------
 
