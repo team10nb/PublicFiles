@@ -84,9 +84,9 @@
 - Idea about the ethics form
   
 3. Preparation for next meeting (Time spent: 5 minutes)
-- **Chairperson: ** Yiming Tang
-- **Secretary: **Shiliang Chen, Yijie Lu
-- **Time: ** Unknown
+- **Chairperson:** Yiming Tang
+- **Secretary:** Shiliang Chen, Yijie Lu
+- **Time:** Unknown
 - **Remark**: Remember to Bring a recorder.(Shiliang Chen)
 
 <br>
