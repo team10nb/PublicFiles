@@ -19,8 +19,8 @@
 | Late        | 0                                                            |
 | Absent      | 0                                                            |
 
-（如果有人缺席formal meeting才需要写这一块，如果没有请删除！）
-**Apologies:**
+（如果有人缺席formal meeting才需要写这一块，如果没有请删除！）<br>
+**Apologies:**<br>
 name：
 
 > Sorry for my absent....
