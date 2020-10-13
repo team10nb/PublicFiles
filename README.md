@@ -1,11 +1,17 @@
 # PublicFiles
-This is the public space for storing minutes files etc.
+本仓库用于存储源代码和各类文档，方便协作。
+
+2020.10.14更新
 
 ## Commit 规范
 
-`时间_??`
+（暂时留空）
 
-## 会议记录（Minutes文件夹）
+## 会议记录（Minutes\）
+
+本文件夹存放会议记录文件，以 .md 文件保存。
+
+Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 
 ### 文件名规范
 
@@ -15,7 +21,7 @@ This is the public space for storing minutes files etc.
 
 `Template_最后修改人缩写_时间_语言_版本.md`
 
-如：`Template_TYM_20200930_zh_CN_v1.md`
+如：`Template_TYM_0930_CN_v1.md`
 
 在使用时，取版本号最新的模版。
 
@@ -23,12 +29,23 @@ This is the public space for storing minutes files etc.
 
 `次数_时间_正式程度_主持人缩写_记录人缩写_语言_版本.md`
 
-如：`3_20200930_F_CSL_HRZ_zh_CN_Final.md`
+如：`3_0930_F_CSL_HRZ_CN_Final.md`
 
-- 正式程度：是否有Supervisor参与。是的话填T，否的话填F。
-- 版本：由于会议记录有三个流程（Chairperson写Agenda、Sec写Minutes、Chairperson写Comments），请将每个上传到本仓库的会议记录标记版本（A、M、Final），方便之后。A版和M版非必须上传，Final版本必须上传。
-- 语言：zh_CN（中文）和en_GB（英文）。
+- 正式程度：是否有 Supervisor 参与。是的话填T，否的话填F。
+- 版本：由于会议记录有三个流程（Chairperson 写 Agenda、Sec 写Minutes、Chairperson 写 Comments），请将每个上传到本仓库的会议记录标记版本（A、M、Final），方便之后整理。A和M非必须上传，Final版本必须上传。
+- 语言：CN（中文）和GB（英文）。
 
-## 竞标文件（Bid文件夹）
+## 竞标文件
 
-文件名规范
+已完成，略
+
+## Others
+
+本文件夹存放已无用但仍暂时保留的文件。存放的文件请在此处大致表明原用途。
+
+- Project_16：搜索到的以前其他组做过的P16的源代码。
+
+## Src
+
+本文件夹存放源代码。格式之后再讨论。
+
