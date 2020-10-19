@@ -76,7 +76,7 @@
 
 ### Outcomes
 
-（根据上面的Agenda来分点写，是否完成，结果如何。不要每句话都记，要记会议进程里讨论出的最终内容，summary of all discussed main points, all decisions, all action points）
+
 
 1. Opening (Time spent: 2 minutes)
 
@@ -189,7 +189,6 @@
 
 ## Comments
 
-（这部分归 Leader 写，内容：这次会议进展的是否如预期？会议本身是否有问题？如何解决？）
 
 I didn't control the time well, because I didn't expect that a question could develop into a discussion of nearly ten minutes. I had planned to ask a few questions in about ten minutes, but I didn't expect that the 30 minute meeting would last nearly an hour.
 

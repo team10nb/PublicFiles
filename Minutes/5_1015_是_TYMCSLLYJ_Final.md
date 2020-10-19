@@ -123,13 +123,19 @@
 	
 	- 讨论近阶段需求分析需要做的事情
 	
+	- 给correctness下定义,下次向heshan确认
+	
+	- 准备ethic forms
+	
 	- 讨论SE method
+	
+	- 初步确定一下流程
 	
 	- 首版需求分析
 	
 	- 决定主持人和记录员的顺序
 	
-	- 讨论website具体内容及任务分配和实现方案
+	- 讨论website具体内容基于黄雅妮初版
 	
 	- 决定下一次formal meeting的人选，及具体讨论内容
 	
