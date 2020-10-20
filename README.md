@@ -1,13 +1,33 @@
 # PublicFiles
 本仓库用于存储源代码和各类文档，发布规范参考信息，方便协作。
 
-2020.10.14更新
+2020.10.20更新
+
+## 邮箱
+
+方便抄送用
+
+Dr. Heshan Heshan.Du@nottingham.edu.cn
+
+Ruizi Han biyrh2@nottingham.edu.cn
+
+Shiliang Chen scysc1@nottingham.edu.cn
+
+Yani Huang scyyh7@nottingham.edu.cn
+
+Yijie Lu scyyl9@nottingham.edu.cn
+
+Yiming Tang scyyt1@nottingham.edu.cn
+
+Yuting Jiang scyyj2@nottingham.edu.cn
+
+
 
 ## 语言规范
 
-中文(CN)：请大家规范使用中国大陆官方简体中文
+中文(CN)：规范使用中国大陆官方简体中文
 
-英文(GB): 请大家规范使用英国英文
+英文(GB)：规范使用英国英文
 
 
 
