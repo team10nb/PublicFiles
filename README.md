@@ -21,6 +21,8 @@ Yiming Tang scyyt1@nottingham.edu.cn
 
 Yuting Jiang scyyj2@nottingham.edu.cn
 
+如何发送邮件可以再制定。暂定：收件人 Dr. Heshan，抄送所有其他人。
+
 
 
 ## 语言规范
@@ -139,6 +141,16 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 ##  [竞标文件](/Bid/Final/)
 
 已完成
+
+
+
+## [Documents](/Documents/)
+
+本文件夹存放未分类的实用文件或暂时无法分类的文件。存放的文件请在此处大致表明原用途。
+
+- [Agenda_and_Minutes_templates](/Documents/Agenda_and_Minutes_templates/)：Dr. Heshan 给的相关模版
+- [AE2GRP_Group05_GroupReport.pdf](/Documents/AE2GRP_Group05_GroupReport.pdf)：Dr. Heshan 给的1617相关项目的report
+- [AE2GRP_Group05](/Documents/AE2GRP_Group05/)：Dr. Heshan 给的1617相关项目
 
 
 
