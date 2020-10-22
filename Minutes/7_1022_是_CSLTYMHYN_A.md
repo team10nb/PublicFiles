@@ -30,13 +30,15 @@
 
 1. 开场白（预计1分钟）
 
-	This is the agenda of today's meeting. **(Show her the Agenda)**
+	This is a copy of the agenda of today's meeting. **(Show her the Agenda)**
 	
-	Today's meeting is gonna be devided into 3 parts, which may take about 30 minutes
+	Today's meeting is gonna be devided into 3 parts
 	
 	- quick review of taks done last week
 	- discussion on several topics
 	- Q&A time
+	
+	30 minutes may not be enough to cover all the contents. would you like to extend our meeting if necessary or leave remainning parts for the next one?
 	
 2. quick review（预计2分钟）
 
@@ -44,7 +46,7 @@
 
     a preview version of it has been developed and detailed content will be added in few days
 
-  - Yiming has sent you a email with a minute file attatched, and we have received several files from you
+  - Yiming has sent you an email with a minute file attatched, and we have received several files from you
 
   - we've discussed about the target group. 
 
@@ -52,44 +54,46 @@
 
   - we've designed a survey in order to gather and verify requirements. This will be discussed later.
 
-  - We've decided to use Agile method in order to include more client participation. However, since we are new in SE, somehow detailed plan will also be made to help manage the whole process.
+  - We've decided to use Agile method in order to include more client participation. However, since we are new in SE, somehow detailed plan will be made as well to help manage the whole process.
 
   - we've done personality test and got more familiar with each other
 
     does anyone has any questions in this part?
+    
+    Lets move on to the discussion part
 
 3. discussion (预计20分钟)
 
-   1. About agenda （预计3分钟）
+   1. **About agenda** （预计3分钟）
 
-     - The one I gave you is written based on the template you proveded. but we've got a more detailed formal english one like the one Yingming sent you. Do you think the simple one is quite enough or cuold you give us any suggestions on the one we provided. **(Show her the one we provided)**
+     - The one I gave you is written based on the template you provided. but we've got a more detailed formal english one like the one Yingming sent you. Do you think the simple one is sufficient or cuold you give us any suggestions on the one we provided. **(Show her the one we provided)**
      - We've looked through the report of 1617 group. We found they attatched their minutes in the report. Shall we do the same thing?
      - I remember dave said something about using LaTex. Is it possible or necessary to use Latex for the report or even the agenda and minutes?
 
-   2. About target group （预计5分钟）
+   2. **About target group** （预计5分钟）
 
    - based on our experience, it would be a great help if we could play with an animated sorting algorithm app when we first time get in touch with them especially in our first year of university
+- so we come up with an idea that the target group could mainly be university students majored in computer science or any other mayjor may need knowledge of sorting algorithms and students who are interested in this.
+   - Under this circumstance, it would be easier to do user research. We can simply gather requirements right in our uni since we have SESA staff yani. She said SESA could help with that.
+   - Does this satisfy your expectation?
 
-   - so we come up with an idea that the target group could mainly be university students majored in computer science or any other course may need knowledge of sorting algorithms and students who are interested in this.
-   - Under this circumstance, it would be easier to do user research. We can simply gather requirements right in our uni since we have sesa staff yani. She said sesa could help with that.
-
-   3. About survey **(Show her the survey)** （预计2分钟）
+   3. **About survey** **(Show her the survey)** （预计2分钟）(Yani & Yijie may take over here)
 
    - Based on different background knowledge people have, the survey would automatically display related questions to the specific group of people
    - Any suggestions on the survey we made
 
-   4. About requirements **(show her the requirements)** （预计6分钟）
+   4. **About requirements** **(show her the requirements)** （预计6分钟）(Shiliang may do this part)
 
    - This is a very early stage verision only for preview
-   - We focuses more on innovations which are brand new features among similar products
+   - We focus more on innovations which are brand new features among similar products
    - As for correctness, we are still not clear about it. Do your mean we need to tell user that this sorting algorithm can do the sorting task correctly? Can you give us a more specific example on this.
 
-   5. About platform & language （预计2分钟）
+   5. **About platform & language** （预计2分钟）
 
    - Single platform or multi-platform?
    - which platform you prefer us to do on or based on the survey/research?
 
-   6. About ethic forms **(Show her the ethic form)** (预计2分钟)
+   6. **About ethic forms** **(Show her the ethics form)** (预计2分钟) (Ruizi may take overhere)
 
    - shall we write all of our names here and submit it as a team?
    - when can we deploy the survey? until the ethic forms are all completed?
