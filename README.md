@@ -166,3 +166,50 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 
 本文件夹存放源代码。格式之后再讨论。
 
+
+
+## 项目时间线
+
+9/30
+
+第一次informal meeting， 开始分配工作，互相了解小组成员，选择项目写bid
+
+10/4
+
+第二次informal meeting，澄清bid相关事宜，优化，初版分享
+
+10/6
+
+第三次informal meeting，bid审核，cv审核，准备提交
+
+10/8
+
+中标20，准备相关工作，开始项目
+
+10/10
+
+第四次informal meeting，准备第一次formal meeting相关问题
+
+10/15
+
+第一次formal meeting，介绍小组成员，初步讨论项目规划以及需求
+
+10/20
+
+第五次informal meeting，谈论了有关网站，ethics，requirements的事项，确认了目标人群，确定了问卷和访谈的市场调研方法
+
+10/21
+
+完成初版ethics form，初版survey，初版consent form
+
+10/22
+
+第二次formal meeting，询问了有关correctness的问题，澄清了有关requirement的要求，审批了初版survey，确定了ethics form
+
+10/23
+
+发送了ethics form的邮件
+
+10/24
+
+周报: 1.近阶段大家可以开始学习起来latex 2.礼拜二开会前大家想一下correctness的实现方案礼拜四要汇报确认的 3.搜集或者制作我们app有可能的不同风格界面用在问卷给user选 4.想一想采访老师的问题
