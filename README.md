@@ -213,3 +213,7 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 10/24
 
 周报: 1.近阶段大家可以开始学习起来latex 2.礼拜二开会前大家想一下correctness的实现方案礼拜四要汇报确认的 3.搜集或者制作我们app有可能的不同风格界面用在问卷给user选 4.想一想采访老师的问题
+
+10/27
+
+第六次informal meeting, 讨论了关于survey的细节和correctness的两种实现方案，准备写成文档在下次meeting的时候向heshan确认。确认了website的内容，已上线。想了几个功能，打算survey中向用户确认。有了interview的基本问题，需要明天向dave确认上交问题和问卷以什么形式附上。
