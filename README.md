@@ -1,7 +1,7 @@
 # PublicFiles
 本仓库用于存储源代码和各类文档，发布规范参考信息，方便协作。
 
-2020.10.20更新
+2020.10.28更新
 
 ## 邮箱
 
@@ -23,7 +23,21 @@ Yuting Jiang scyyj2@nottingham.edu.cn
 
 如何发送邮件可以再制定。暂定：收件人 Dr. Heshan，抄送所有其他人。
 
+## Division of labour
 
+- Team Leader: Shiliang Chen
+
+- UI Designer: Yiming Tang, Yani Huang
+
+- Technical Leader: Shiliang Chen
+
+- Quality Assurance Leader: Yijie Lu, Yuting Jiang
+
+- Report Editor: Yani Huang, Yuting Jiang ,Ruizi Han
+
+- Repository Master: Ruizi Han, Yiming Tang
+
+- Monitor (Tester): Yani Huang, Shiliang Chen
 
 ## 语言规范
 
@@ -213,3 +227,7 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 10/24
 
 周报: 1.近阶段大家可以开始学习起来latex 2.礼拜二开会前大家想一下correctness的实现方案礼拜四要汇报确认的 3.搜集或者制作我们app有可能的不同风格界面用在问卷给user选 4.想一想采访老师的问题
+
+10/27
+
+第六次informal meeting, 讨论了关于survey的细节和correctness的两种实现方案，准备写成文档在下次meeting的时候向heshan确认。确认了website的内容，已上线。想了几个功能，打算survey中向用户确认。有了interview的基本问题，需要明天向dave确认上交问题和问卷以什么形式附上。
