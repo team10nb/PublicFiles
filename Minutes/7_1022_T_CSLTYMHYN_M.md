@@ -15,10 +15,10 @@
 
 **Attendence:**
 
-| **出席** | **Heshan Du, Yiming Tang, Shiliang Chen, <br>Yani Huang, Ruizi Han, <br>Yijie Lu, Yuting Jiang** |
-| -------- | ------------------------------------------------------------ |
-| 迟到     | 0                                                            |
-| 缺席     | 0                                                            |
+| Attend | **Heshan Du, Yiming Tang, Shiliang Chen, <br>Yani Huang, Ruizi Han, <br>Yijie Lu, Yuting Jiang** |
+| ------ | ------------------------------------------------------------ |
+| Late   | 0                                                            |
+| Absent | 0                                                            |
 
 <br>
 
