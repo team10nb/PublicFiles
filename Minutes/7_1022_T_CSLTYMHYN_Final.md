@@ -144,5 +144,11 @@
 
 ## Comments
 
-Due to the time limit
+Due to the time limit, ethics and correctness were not discussed clearly.
+I have problem on preparations on the requirements.
+To save paper, don't bring hard copy, email Dr. Heshan instead.
+Chairperson and secratary shall sit around Heshan. This would help.
+Chairperson shall control the time adequately. If the situation is losing control, secratary shall help speed up.
+For speeding up the whole process, it's ok to read agenda. Still, try hard to perform naturally.
+
 
