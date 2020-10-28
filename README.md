@@ -1,7 +1,7 @@
 # PublicFiles
 本仓库用于存储源代码和各类文档，发布规范参考信息，方便协作。
 
-2020.10.20更新
+2020.10.28更新
 
 ## 邮箱
 
@@ -23,7 +23,21 @@ Yuting Jiang scyyj2@nottingham.edu.cn
 
 如何发送邮件可以再制定。暂定：收件人 Dr. Heshan，抄送所有其他人。
 
+## Division of labour
 
+- Team Leader: Shiliang Chen
+
+- UI Designer: Yiming Tang, Yani Huang
+
+- Technical Leader: Shiliang Chen
+
+- Quality Assurance Leader: Yijie Lu, Yuting Jiang
+
+- Report Editor: Yani Huang, Yuting Jiang ,Ruizi Han
+
+- Repository Master: Ruizi Han, Yiming Tang
+
+- Monitor (Tester): Yani Huang, Shiliang Chen
 
 ## 语言规范
 
