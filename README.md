@@ -1,7 +1,7 @@
 # PublicFiles
 本仓库用于存储源代码和各类文档，发布规范参考信息，方便协作。
 
-2020.10.28更新
+2020.10.29更新
 
 ## 邮箱
 
@@ -231,3 +231,8 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 10/27
 
 第六次informal meeting, 讨论了关于survey的细节和correctness的两种实现方案，准备写成文档在下次meeting的时候向heshan确认。确认了website的内容，已上线。想了几个功能，打算survey中向用户确认。有了interview的基本问题，需要明天向dave确认上交问题和问卷以什么形式附上。
+
+10/28
+
+第三次formal meeting，确认了网站，确认了survey，确认了interview 的几个问题，确认了correctness一步步来，确认了requirement根据ppt写
+下阶段literature review以及准备期中报告，继续准备问卷和采访，注意要对我们产品有所帮助
