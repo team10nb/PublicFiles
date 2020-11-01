@@ -5,14 +5,39 @@
 
 ## 重要事项
 
-近期Deadline: **12.10** Interim Report
+### 近期Deadline: 
 
-近期重点任务:
+**12.10** Interim Report
+
+### 近期重点任务:
 
 1. Literature review
 2. 准备survey & interview
 3. 分配更多development角色
 4. 时间线规划以及gantt图重新设计
+
+### Interim Report
+
+1. 扩充对于项目和对待解决问题的描述
+2. 背景信息和调研
+   - 对现存的相似功能的系统的调研
+   - 市场调研的结果
+   - technical research的结果, 合适的平台, 工具, 技术, 算法, 数据结构 等
+   - 
+3. requirements specification (要与supervisor 协调后的版本)
+4. 要实现的系统的初步设计, 以及他的用户使用界面
+5. 重要的实现的决定的记录, 比如编程语言, 操作系统, 电脑, 附加的软件硬件, 以及原因
+6. 初步实现步骤/prototyping 的结果
+7. 对于现在遇到过的问题的讨论, 包括技术上的, 管理上的, 比如小组工作
+8. 时间线
+9. 会议记录, 存在appendix里
+10. One printed copy of the interim group report should be submitted as well as
+an electronic copy in PDF format. The front page of the report should include: 
+• The text “COMP2043.GRP Interim Group Report”
+• Project title
+• Date
+• Team name/identifier
+• Names and School of CS usernames of all group members • Name of supervisor
 
 ## 邮箱
 
