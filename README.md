@@ -1,7 +1,18 @@
 # PublicFiles
 本仓库用于存储源代码和各类文档，发布规范参考信息，方便协作。
 
-2020.10.29更新
+2020.11.1更新
+
+## 重要事项
+
+近期Deadline: **12.10** Interim Report
+
+近期重点任务:
+
+1. Literature review
+2. 准备survey & interview
+3. 分配更多development角色
+4. 时间线规划以及gantt图重新设计
 
 ## 邮箱
 
