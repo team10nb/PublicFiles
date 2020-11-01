@@ -20,17 +20,17 @@
 
 Dr. Heshan Heshan.Du@nottingham.edu.cn
 
-Ruizi Han biyrh2@nottingham.edu.cn
+Ruizi Han (20125115) biyrh2@nottingham.edu.cn
 
-Shiliang Chen scysc1@nottingham.edu.cn
+Shiliang Chen (20125016) scysc1@nottingham.edu.cn
 
-Yani Huang scyyh7@nottingham.edu.cn
+Yani Huang (20125915) scyyh7@nottingham.edu.cn
 
-Yijie Lu scyyl9@nottingham.edu.cn
+Yijie Lu (20125931) scyyl9@nottingham.edu.cn
 
-Yiming Tang scyyt1@nottingham.edu.cn
+Yiming Tang(20126870) scyyt1@nottingham.edu.cn
 
-Yuting Jiang scyyj2@nottingham.edu.cn
+Yuting Jiang (20126307) scyyj2@nottingham.edu.cn
 
 如何发送邮件可以再制定。暂定：收件人 Dr. Heshan，抄送所有其他人。
 
