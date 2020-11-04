@@ -277,6 +277,7 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 晨会讨论了各个ethics form的最后确认
 下午制作了最后的版本，并且邮件给了heshan
 第七次informal meeting，讨论了literature review 相关内容，分配了相关工作，然后讨论了focus group的安排，最后反馈了时间线的问题，并且提了一下需求的日程
+确认了literature review的格式，确认了文献摘录的来源并且确认了人员分配。检查了timeliness，确认了UML的运用。确认了focus group和interview的人员
 
 11/4
 上传了ethics 附加的几个内容
