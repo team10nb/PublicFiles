@@ -272,3 +272,11 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 
 第三次formal meeting，确认了网站，确认了survey，确认了interview 的几个问题，确认了correctness一步步来，确认了requirement根据ppt写
 下阶段literature review以及准备期中报告，继续准备问卷和采访，注意要对我们产品有所帮助
+
+11/3
+晨会讨论了各个ethics form的最后确认
+下午制作了最后的版本，并且邮件给了heshan
+第七次informal meeting，讨论了literature review 相关内容，分配了相关工作，然后讨论了focus group的安排，最后反馈了时间线的问题，并且提了一下需求的日程
+
+11/4
+上传了ethics 附加的几个内容
