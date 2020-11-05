@@ -283,4 +283,7 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 上传了ethics 附加的几个内容
 
 11/5
-会议开始的时候上次的主持人来review，增加连贯性
+- 会议开始的时候上次的主持人来review，增加连贯性
+- literature 初版paragraph ddl定在2020/11/09 周一
+- Focus group的问题将在2020/11/06~2020/11/07间进一步的确定
+- Requirement的各项工作（包括Focus group、调查问卷、对老师的interview）及结果分析预计将在Dave审批结束后4~5天内结束
