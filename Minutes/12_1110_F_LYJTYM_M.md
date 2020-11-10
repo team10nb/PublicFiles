@@ -1,18 +1,18 @@
-# Team 10 - 10th Meeting 
+# Team 10 - 12th Meeting 
 
 <br>
 
 ## Information
 
-**Time:**  2020.11.03 19：30-22：00(150 min)
+**Time:**  2020.11.10 19：30-22：00(150 min)
 
 **Location:** Library
 
-**Chairperson:**  Yijie Lu
+**Chairperson:**  Yiming Tang
 
-**Secretary:**  Shiliang CHEN
+**Secretary:**  Yijie Lu
 
-**Translator:**  Shiliang CHEN
+**Translator:**  Yijie Lu
 
 **Attendence:** /6
 
@@ -30,13 +30,7 @@
 
 *The whole meeting is expected to take 150 minutes.*
 
-1. Comfirm the structure of literature review . (60 min-70 min)
-   - Introduction of the literature review.
-   - what part should be added to the review.
-   - Discuss what we have found for the review.
-2. Discuss which group should take responsibility to Focus Group and which one should take responsibility to interview. (5 min)
-3. Discuss the timeline, confirm how many UML diagram should be used and what prototype should be.(60 min) 
-3. Discuss topic for the next formal meeting. (10 min- 15 min)
+
 
 <br>
 
@@ -79,9 +73,6 @@
 \- **Time: November 12th
 
 \- **What is going to be discussed in the next meeting:**
-1.重申这是我们自己做的prototype，介绍一下原型（yiming）
-2.反应问卷情况,精选一些题目讨论（讨论游戏形式不做了，如奖励，皮肤，商场，说明原因，确定平台）
-
 
 -Reiterate the prototype is done by us, and Yiming introduced some works he did
 -Report the questionaire, pick some important question to discuss, importantly mentions we do not consider game anymore and explain why
