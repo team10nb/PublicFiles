@@ -12,9 +12,9 @@
 ### 近期重点任务:
 
 1. Literature review
-2. 准备survey & interview
+2. 准备survey & interview & 大三的focus group
 3. 分配更多development角色
-4. 时间线规划以及gantt图重新设计
+4. 学习LaTax
 
 ### Interim Report
 
@@ -287,3 +287,17 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 - literature 初版paragraph ddl定在2020/11/09 周一
 - Focus group的问题将在2020/11/06~2020/11/07间进一步的确定
 - Requirement的各项工作（包括Focus group、调查问卷、对老师的interview）及结果分析预计将在Dave审批结束后4~5天内结束
+
+11/6
+周报：
+1. 大家还是趁着空闲时间学一下LaTex 比如用它来写我们的literature review
+2. literature review，我们的ddl定在了礼拜一之前，大家记得在礼拜一之前完成之后交付给yijie
+3. Yani负责的大一大二的focus group即将在明天进行，一定会顺利的！
+4. 我们的问卷调查应该是可以进行了，等明天的focus group结果出来后应该可以继续安排问卷了
+5. 还有一组大三的focus group可能要到下周工作日进行
+6. 礼拜二之前要准备好我们的几个小prototype，有想法的人准备用来给大家演示
+7. 下次的主持人是yiming，秘书是yijie，上阶段工作总结员是yani
+
+11/7
+下午进行了大一与大二的focus group
+准备大三的
