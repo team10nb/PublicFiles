@@ -1,20 +1,36 @@
 # PublicFiles
 本仓库用于存储源代码和各类文档，发布规范参考信息，方便协作。
 
-2020.11.1更新
+2020.11.11更新
 
 ## 重要事项
 
 ### 近期Deadline: 
 
-**12.10** Interim Report
+**11.15** 
+
+- 市场调研结果
+- 现存相似功能系统调研结果
+- functional/non-functional 列表
+- user story
+
+**12.10** 
+
+- Interim Report
 
 ### 近期重点任务:
 
 1. Literature review
+   - 相关软件产品分析
+   - 市场分析
+   - 技术分析
 2. 准备survey & interview & 大三的focus group
 3. 分配更多development角色
 4. 学习LaTax
+5. 询问dave
+   - 时间线安排的进度问题
+   - 市场调研结果篇幅较长问题
+6. 
 
 ### Interim Report
 
