@@ -30,7 +30,7 @@
 5. 询问dave
    - 时间线安排的进度问题
    - 市场调研结果篇幅较长问题
-6. 
+6. 询问hengyu能不能聊一聊
 
 ### Interim Report
 
@@ -317,3 +317,14 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 11/7
 下午进行了大一与大二的focus group
 准备大三的
+
+11/10
+
+
+
+11/11
+
+关于近期：
+学姐说LR也好，requirements的document也好都是后期可以加的附加点，主要要把迭代做好，指导老师可能不是很懂，要去参考参考dave组的进度，或者我们去找dave聊一聊我们的时间安排，不管是迭代还是test，都要表现出来显得我们的process非常的完善，pre中会需要介绍到process，demo openday中要呈现完善的成果，基本功能一定要先完善好，一步步迭代到后期的创新，因为code会被看到，所以要有好的documentation，interim report用来追踪进度，final report会被dave看到，打分是各个老师在打，所以要让不懂得老师也能觉得我们做的东西很有用（我们可以现在就去找hengyu了解一下他的期待或者事先打预防针让他给我们打高分
+
+相关工具：teambition，trello,notion,tower.im,mendelay,还有学姐发布的template
