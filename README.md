@@ -329,4 +329,20 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 关于近期：
 学姐说LR也好，requirements的document也好都是后期可以加的附加点，主要要把迭代做好，指导老师可能不是很懂，要去参考参考dave组的进度，或者我们去找dave聊一聊我们的时间安排，不管是迭代还是test，都要表现出来显得我们的process非常的完善，pre中会需要介绍到process，demo openday中要呈现完善的成果，基本功能一定要先完善好，一步步迭代到后期的创新，因为code会被看到，所以要有好的documentation，interim report用来追踪进度，final report会被dave看到，打分是各个老师在打，所以要让不懂得老师也能觉得我们做的东西很有用（我们可以现在就去找hengyu了解一下他的期待或者事先打预防针让他给我们打高分
 
-相关工具：teambition，trello,notion,tower.im,mendelay,还有学姐发布的template
+相关工具：teambition, trello, notion, tower.im, mendelay,还有学姐发布的template
+
+11/12
+
+**Formal meeting:**
+
+- 向heshan汇报了目前requirement gathering的部分结果，问卷报告和focus group报告。
+- 询问了软件设计方向的问题，heshan认为偏向游戏或功能，这两者不冲突。但同意我们废弃奖励机制的想法。
+- 汇报了下之后会做的事情，interview和focus group，以及requirement gathering之后的事情。
+
+**近期任务：**
+
+- Literature review
+- Questionnaire report
+- Focus group report
+- Interview report
+- 确定requirement，完成functional和non-functional文件
