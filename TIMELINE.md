@@ -1,14 +1,14 @@
 Estimated phases
 
 1. Research and preparation 10.8 - 11.15
-    1.1 Background research (exiting system analysis, paper review, reproduce other’s project, prepare user research) 10.8 - 11.1
+    1.1 Background research (exiting system analysis, paper review, technical research, prepare user research) 10.8 - 11.1
     1.2 Group page 10.12 - 10.25
     1.3 Technical research 11.2 - 11.8
-    1.4 User research (discussion, research, survey, market research) 11.9 - 11.15
+    1.4 User research (interview, focus group, survey) 11.9 - 11.15
 
 2. Design 11.15 - 12.6
-    2.1 Write requirements (requirement specification, user stories and personas) 11.16 - 11.22
-    2.2 Design prototypes 11.22 - 12.6
+    2.1 Write requirements (requirement specification, user stories) 11.16 - 11.22
+    2.2 Design prototypes 11.16 - 12.6
     2.3 Architectural design (key implementation decisions) 11.22 - 12.6
     2.4 Outline planning 11.30 - 12.6
     2.5 GUI design 11.30 - 12.6
