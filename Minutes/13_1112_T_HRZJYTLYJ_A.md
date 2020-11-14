@@ -10,7 +10,7 @@
 
 **Secretary:** Yijie Lu, Yuting Jiang
 
-**Translator:** 
+**Translator:** Yijie Lu, Yuting Jiang
 
 **Attendence:**
 
@@ -67,30 +67,40 @@
 
 
 
-1. Questionaire report (Time spent: 5 minutes)
+1. Questionnaire report (Time spent: 5 minutes)
   
-	- Yuting reported 6 important imformations we have collected, and Heshan said the work is fine
-2. Focus group imformation collecting (Time spent: 5 minutes)
-   - Ruizi said Y1's idea is not quite useful
-	- Ruizi said Y2's idea is relative useful, and we will consider to design a software has more functionality rather than has more game elements
-   - He shan agreeded with that.
+	- Yuting reported 6 important information we have collected, and Heshan said the work is fine
+	- Heshan suggested that the report can be written by LaTex.
+	
+2. Focus group information collecting (Time spent: 5 minutes)
+   - Ruizi said Y1's ideas are not quite useful
+	- Ruizi said Y2's ideas are relative useful, and we will consider to design a software has more functionality rather than has more game elements
+   - Heshan agreed with ruizi.
+   
 3. Discuss the software design direction (About 5 minutes)
 	-  Heshan said that the previous prototype's selecting module like the visualgo's.
-   - Yiming showed updated prototype, he will deleted the skin shop and other game elements.
+   - Yiming showed updated prototype, he will delete the skin shop and other game elements.
    - Shiliang stressed that we will focus on the functionality of the software, and the game mode will be deleted.
-   - Heshan sad our design pattern is fine, but the prototype should be wrriten in English
+   - Heshan said our design pattern is fine, but the prototype should be written in English
+   
 4. Report what we will do in next phase (About 10 minutes)
-	- **Chairperson:** Yiming Tang
-	- **Secretary:** Yuting Jiang
-	- **Time:** 11/17
-	-**Remark**:
 
-   - check literature review
-   - feedback of focus group
-   - Prepare for the introduction part
-   - discuss Latex
-   - stress the importance of git (introduce project feature of github)
-   - prototype presentation
+  - check the literature review
+
+  - feedback of focus groups
+
+  - Prepare for the introduction part
+
+  - stress the importance of git (introduce project feature of github)
+
+  - prototype presentation
+
+    -**Next meeting**:
+
+  - **Chairperson:** Yuting Jiang
+  - **Secretary:** Yani HUANG
+  - **Time:** 11/17
+
 
 <br>
 
@@ -116,17 +126,23 @@
 
 | **Task** | **Members** | **DDL** |
 | -------- | ---------- | ------- |
-|          |            |         |
-| | | |
-| | | |
-| | | |
+| Finish the literature review | Yijie LU, Ruizi HAN | 11.17 |
+| Finish the focus group report(Year 3) | Shiliang Chen | 11.17 |
+| Find out resources about technical analysis | Yiming TANG and ALL | 11.17   |
+| Informal talk with Heng YU | Yijie LU, Yuting JIANG | 11.13 |
+| Informal talk with Dave | Yani HUANG, Shiliang CHEN | 11.18 |
+| Second version of prototype | Yiming TANG | 11.17 |
+| Function documentation(non-functional) | Yijie LU | 11.17 |
+| Release and collect questionnaires(for Year 1 students) | Shiliang CHEN | 11.17 |
+| Finish the final questionnaire report | Yuting JIANG | 11.18 |
 
 <br>
 
 ### Problems
 
 | **Priority(0 for highest, 5 for lowest）** | **Problem Description** | **Possible consequence** | **Proposer** | **Tentative Solution** | **Expected completion time** |
-| -------------------------- | ------------ | ------------ | ---------- | ---------------- | ---------------- |
+| ------------------------------------------ | ----------------------- | ------------------------ | ------------ | ---------------------- | ---------------------------- |
+| 1 | Decide whether to quit game mode| Affect the prototype design and functions documentation | All | Discuss in next meeting| / |
 
 
 <br>
@@ -135,7 +151,7 @@
 
 ## Comments
 
-（这部分归 Leader 写，内容：这次会议进展的是否如预期？会议本身是否有问题？如何解决？）
+For today's meeting, I prepared a draft script because I am really nervous about this formal meeting. Hence this  led to an awkward situation, I paid too much attention on finishing what I planned to say, and did a poor job in responding supervisor and asking for more feedback. I didn't help the group to get useful information from supervisor, I should focus on interaction more next time and keep thinking during the meeting.
 
 
 
