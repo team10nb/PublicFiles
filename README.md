@@ -1,7 +1,7 @@
 # PublicFiles
 本仓库用于存储源代码和各类文档，发布规范参考信息，方便协作。
 
-2020.11.11更新
+2020.11.18更新
 
 ## 重要事项
 
@@ -32,21 +32,21 @@
    - 市场调研结果篇幅较长问题
 6. 询问hengyu能不能聊一聊
 
-### Interim Report
+### Interim Report  - 进行中， 由宇婷整理LaTex
 
-1. 扩充对于项目和对待解决问题的描述
+1. 扩充对于项目和对待解决问题的描述 - **进行中，已有框架和现存资料由诗量整理，由艺捷完成**
 2. 背景信息和调研
-   - 对现存的相似功能的系统的调研
-   - 市场调研的结果
-   - technical research的结果, 合适的平台, 工具, 技术, 算法, 数据结构 等
+   - 对现存的相似功能的系统的调研 - **已完成，由艺捷整理**
+   - 市场调研的结果 - **已完成FG, IV, QN，由各负责人整理**
+   - technical research的结果, 合适的平台, 工具, 技术, 算法, 数据结构 等 - **待进行**
    - 
-3. requirements specification (要与supervisor 协调后的版本)
-4. 要实现的系统的初步设计, 以及他的用户使用界面
-5. 重要的实现的决定的记录, 比如编程语言, 操作系统, 电脑, 附加的软件硬件, 以及原因
-6. 初步实现步骤/prototyping 的结果
-7. 对于现在遇到过的问题的讨论, 包括技术上的, 管理上的, 比如小组工作
-8. 时间线
-9. 会议记录, 存在appendix里
+3. requirements specification (要与supervisor 协调后的版本) - **进行中，由艺捷整理function列表，由睿孜完成sequence diagram，由雅妮诗量完成use case diagram， 由宇婷完成user story**
+4. 要实现的系统的初步设计, 以及他的用户使用界面 - **进行中，由懿明完成原型设计，睿孜辅助完成sequence diagram**
+5. 重要的实现的决定的记录, 比如编程语言, 操作系统, 电脑, 附加的软件硬件, 以及原因 - **待进行**
+6. 初步实现步骤/prototyping 的结果 - **待进行 需要有中等级的prototype**
+7. 对于现在遇到过的问题的讨论, 包括技术上的, 管理上的, 比如小组工作 - **待进行，还未整理，平时有记录**
+8. 时间线 - **进行中，风险管理由宇婷整理**
+9. 会议记录, 存在appendix里 - **进行中， 由各秘书整理**
 10. One printed copy of the interim group report should be submitted as well as
 an electronic copy in PDF format. The front page of the report should include: 
 • The text “COMP2043.GRP Interim Group Report”
