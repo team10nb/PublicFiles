@@ -339,10 +339,17 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 - 询问了软件设计方向的问题，heshan认为偏向游戏或功能，这两者不冲突。但同意我们废弃奖励机制的想法。
 - 汇报了下之后会做的事情，interview和focus group，以及requirement gathering之后的事情。
 
+11/17
+
+-改进了requirement，但是correctness部分的功能还需要完善
+-technical research的方向还需要讨论和敲定
+-Dave建议最晚11月末要开始coding
+
+
 **近期任务：**
 
-- Literature review
-- Questionnaire report
-- Focus group report
-- Interview report
 - 确定requirement，完成functional和non-functional文件
+- Questionnaire report
+- UML diagrams
+- Extend description of problem
+- risk management
