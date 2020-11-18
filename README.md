@@ -341,9 +341,9 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 
 11/17
 
--改进了requirement，但是correctness部分的功能还需要完善
--technical research的方向还需要讨论和敲定
--Dave建议最晚11月末要开始coding
+- 改进了requirement，但是correctness部分的功能还需要完善。
+- technical research的方向还需要讨论和敲定。
+- Dave建议最晚11月末要开始coding。
 
 
 **近期任务：**
