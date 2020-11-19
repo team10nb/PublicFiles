@@ -7,12 +7,12 @@
 
 ### 近期Deadline: 
 
-**11.15** 
+**11.22**
 
-- 市场调研结果
-- 现存相似功能系统调研结果
-- functional/non-functional 列表
-- user story
+- 市场调研结果返工查问题（语法和逻辑结构）
+- literature review 返工查问题（语法和逻辑结构）
+- requirement 完成和查问题
+- technical research 进行
 
 **12.10** 
 
@@ -20,17 +20,18 @@
 
 ### 近期重点任务:
 
-1. Literature review
-   - 相关软件产品分析
-   - 市场分析
-   - 技术分析
-2. 准备survey & interview & 大三的focus group
-3. 分配更多development角色
 4. 学习LaTax
-5. 询问dave
-   - 时间线安排的进度问题
-   - 市场调研结果篇幅较长问题
-6. 询问hengyu能不能聊一聊
+2. expanded description还不够完善，根据rubric完善，一个gap信息已经邮件询问dave
+3. 背景信息和研究还需要完善细节
+4. 需求定义还需要和heshan确定，我们自己这边也需要把设计向的泛化，补充缺失的修改已有的，语法，以及需要**verifiable**，nonfun准备向bgl请教
+5. 设计上需要UML们配说明文字，要有连贯性，能与requirements相匹配（**explanation justification**）UML我们仍在设计，use case的问题准备向bgl请教
+6. 用户界面完成设计，有适当的图片和说明（**explanation justification**）
+7. 重要的设计决定的**记录**与**讨论**记录，这里我们还没有开始做
+8. 初步实现的步骤或者原型的结果，这里需要一个**progress**（步骤化）的description和presentation，然后还需要stakeholders的反馈
+9. 所遇到的问题的讨论，我们还没有整理过这一part，需要清楚的识别和解释和分析，包括原因和解决方案和解释，补救措施也要写到（我觉得可以分为预防，新遭遇的，和补救的三类）
+10. 时间计划，详细，有细节，可实现，有一个进展变化的过程，需要解释和reflection on progress
+11. 下面几个部分是关于reference的，我们还在整理中
+12. 最后是写作技巧上的，结构清晰有条理，句子意思明确易懂，不要有奇怪长难句，不要有语法错误和用词错误，以及用LaTex
 
 ### Interim Report  - 进行中， 由宇婷整理LaTex
 
@@ -44,8 +45,8 @@
 4. 要实现的系统的初步设计, 以及他的用户使用界面 - **进行中，由懿明完成原型设计，睿孜辅助完成sequence diagram**
 5. 重要的实现的决定的记录, 比如编程语言, 操作系统, 电脑, 附加的软件硬件, 以及原因 - **待进行**
 6. 初步实现步骤/prototyping 的结果 - **待进行 需要有中等级的prototype**
-7. 对于现在遇到过的问题的讨论, 包括技术上的, 管理上的, 比如小组工作 - **待进行，还未整理，平时有记录**
-8. 时间线 - **进行中，风险管理由宇婷整理**
+7. 对于现在遇到过的问题的讨论, 包括技术上的, 管理上的, 比如小组工作 - **待进行，还未整理，平时有记录，进行中，风险管理由宇婷整理**
+8. 时间线 - **待进行，计划由诗量整理**
 9. 会议记录, 存在appendix里 - **进行中， 由各秘书整理**
 10. One printed copy of the interim group report should be submitted as well as
 an electronic copy in PDF format. The front page of the report should include: 
