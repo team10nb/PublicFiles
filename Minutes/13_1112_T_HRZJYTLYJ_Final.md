@@ -82,7 +82,7 @@
    - Yiming showed updated prototype, he will delete the skin shop and other game elements.
    - Shiliang stressed that we will focus on the functionality of the software, and the game mode will be deleted.
    - Heshan said our design pattern is fine, but the prototype should be written in English
-   
+  
 4. Report what we will do in next phase (About 10 minutes)
 
   - check the literature review

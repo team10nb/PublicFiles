@@ -79,50 +79,17 @@
 
 #### Outcomes
 
-1. Literature review部分
-   - 图片不够大，LaTex放图片遇到了一点问题，图片也需要citation
-   - citation格式不统一，预计统一为编号，由LaTex自动生成
-   - 部分区域没有使用citation，例如描述部分，例如每个软件的网址citation
-   - 语法错误还是需要改正
-   - reference list中的格式也不统一
-   - 每个大模块和小模块开始之间需要有一个简短的introduction
-   - 每个软件介绍时需要以该软件自己名称作主语做简要介绍并且有citation
-   - 相似软件要放到一起
-   - 网址可以用注脚的方式放在文档下方
-   - scratch图片改为英文版的
-   - 语法修正继续
-
-2. 需求文档部分
-   - 在开始讲述之前介绍什么是req，什么是spec，放上相应的reference
-   - non functional的constraint还有问题 需要询问BGL
-   - 需求不要详细成design，个别项目有这个问题
-   - 多语言的需求是functional还是nonfunctional也是一个问题
-   - 语法修正继续
-
-3. expanded description 部分
-   - 第三部分还是引起了疑惑，或许可以找个办法修改一下
-   - 语法修正继续
-
-4. prototype部分
-   - 发邮件给heshan介绍
 
 
+**Chairperson for next**: Ruizi Han
 
+**Secretary**: Yijie Lu and Yuting Jiang
 
-
-**Chairperson for next**: Shiliang Chen
-
-**Secretary**: Ruizi Han
-
-**Time**: November 24th
+**Time**: November 12th
 
 **What is going to be discussed in the next meeting:**
 
-1. use case diagram审核
-2. requirement 文档审核反馈
-3. expanded description审核反馈
-4. literature review 审核反馈
-5. technical research反馈
+
 
 -------
 
@@ -141,18 +108,14 @@
 
 | **Task**                                                     | **Members**                                           | **DDL**         |
 | ------------------------------------------------------------ | ----------------------------------------------------- | --------------- |
-| 完善use case diagram | 陈诗量，黄雅妮 | 11/20 |
-| 完善需求文档的语法，缺失，错误 | 唐懿明 | 11/22 |
-| 完善sequence diagram | 韩睿孜 | 11/23 |
-| 完善literature review文档 | 卢艺捷 | 11/23 |
-| 进行technical research | All | 11/23 |
-| 完善expanded description | 唐懿明         | 11/23 |
-| 完成风险管理模块书写 | 姜雨婷 | 11/23 |
-| 完善问卷报告中可能存在的问题 | 陈诗量 | 11/23 |
-| 完善focus group报告中可能存在的问题 | 姜雨婷，黄雅妮 | 11/23 |
-| 询问BGL1.我们的use case diagram，2. 算法数量限制，3. 多语言 | 黄雅妮         | 11/20 |
-| 询问dave 1. gap in literature/application 2. key work | 陈诗量 | 11/19 |
-| 准备整理遇到的问题和反思 | / | 11/20 |
+|          |             |         |
+|          |             |         |
+|          |             |         |
+|          |             |         |
+|          |             |         |
+|          |             |         |
+|          |             |         |
+|          |             |         |
 
 <br>
 
