@@ -354,3 +354,20 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 - UML diagrams
 - Extend description of problem
 - risk management
+
+11/25
+
+本次会议进程并不顺利，主要问题是会议主题是汇报工作和对汇报项的讨论和再分配
+但是进度并不顺利，分配的任务没有得到很好地完成
+陈诗量和黄雅妮的use case进度停滞了，因为没有问bgl
+唐懿明的需求文档没有修改
+卢艺捷的literature review任务看错了
+所有人technical research的进度都不好
+
+原因以下：
+会前没有说预计时间
+DMS课业负担过重
+教室空调温度过高
+会议讨论向会比较合适
+进度或许需要在会议前与大家跟进
+会议主持人可以在会后一定时间段进行任务督促
