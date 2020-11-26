@@ -129,7 +129,7 @@
 -------
 
 ## Comments
-
+Chairperson should make sure to send the agenda to supervisor before the meeting 
 
 
 
