@@ -51,8 +51,6 @@
 
 ### Outcomes
 
-（根据上面的Agenda来分点写，是否完成，结果如何。不要每句话都记，要记会议进程里讨论出的最终内容，summary of all discussed main points, all decisions, all action points）
-
 1. Confirm the Requirement (Time spent: 15 minutes)
 
 	- Add definition or explaination of requirement and specification, maybe refer to textbook.
