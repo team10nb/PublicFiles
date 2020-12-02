@@ -104,11 +104,11 @@
 
 
 
-\- **Chairperson for next: Ruizi Han
+\- **Chairperson for next: Ruizi Han**
 
-\- **Secretary: Yijie Lu and Yuting Jiang
+\- **Secretary: Yijie Lu and Yuting Jiang** 
 
-\- **Time: November 12th
+\- **Time: November 12th**
 
 \- **What is going to be discussed in the next meeting:**
 
