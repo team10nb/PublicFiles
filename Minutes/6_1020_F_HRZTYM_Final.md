@@ -11,13 +11,13 @@
 
 **Secretary:** Yiming Tang
 
-**Translator:** 
+**Translator:** Yiming Tang
 
 **Attendence:** 6/6
 
 | Attendence | **Yiming Tang, Shiliang Chen, <br>Yani Huang, Ruizi Han, <br>Yijie Lu, Yuting Jiang** |
 | ---------- | ------------------------------------------------------------ |
-| 迟到       | 0                                                            |
+| Late       | 0                                                            |
 | Absent     | 0                                                            |
 
 
@@ -30,7 +30,7 @@
 
 *The whole meeting is expected to take 30 minutes.*
 
-1. Last weeks' tasks(Expected 3m)
+1. Last weeks' tasks (Expected 3m)
 
 	- Mail to Dr. Heshan completed?
 	- Dr. Heshan's documents (Agenda template & 1617 GRP works)
@@ -47,24 +47,22 @@
 4. Ethics form (about 10m)
     - briefly introduce the filling process and several documents
     - Assign tasks
-5. Website（预计15分钟）
-    - 黄雅妮和唐懿明同学讲一下自己的大致构想
-    - 讨论并提出意见
-6. 讨论correctness的定义（预计15分钟）
-    - 关于correctness，大家提出自己的看法
-    - 如何实现这一要求，可能的办法
-7. 了解大家的性格和分享自己认为的组内角色 - 如果大家愿意分享的话（预计10分钟）
-    - 分享测试结果或自己认为自己合适的Belbin team role
-    - 之后的一年自己可能可以做些什么
-8. 问题提出和下次任务安排（预计10分钟）
+5. Website (about 15m)
+    - Huang and Tang briefly introduce their ideas
+    - Discuss
+6. Definition of correctness (about 15m)
+    - Give ideas about correctness
+    - Possible ways to achieve proving it
+7. (optional) Characteristics of each member (about 10m）
+    - Share the test result or suitable Belbin team role for them
+    - What each member is able to do
+8. Questions and next meeting arrangement (about 10m)
 
-    - 提问，大家是否还有其他问题
+    - Other questions
 
-    - 下次会议chairperson和secretary，以及之后的轮换方式
+    - Next meeting time, chairperson and secretary, how to rotate
 
-    - 下次会议时间
-
-    - 确认要完成的事项，大家下阶段的任务
+    - Next stage tasks
 
 <br>
 
@@ -73,140 +71,109 @@
 
 ## Minute
 
-（这部分归 Sec 写）
-
 ### Outcomes
 
-（根据上面的Agenda来分点写，是否完成，结果如何。不要每句话都记，要记会议进程里讨论出的最终内容，summary of all discussed main points, all decisions, all action points）
+(summary of all discussed main points, all decisions, all action points)
 
-1. 回顾上周的任务
+1. Lask week's task
 
-	- 给heshan发邮件，已完成
-	- heshan的资料，已经发到GitHub上
+	- Mail to Heshan sent
+	- Heshan's documents pushed to GitHub
 	
-2. 需求分析（预计40分钟）
+2. Requirements Analysis
 
-   - 大家分享各自想到的需求，某些部分可以顺带讲一讲怎么去measure这个需求
+   - Share
 
-     1. tym：激励？
+     1. Tang: Encourage
+     2. Jiang: Game. First open simple algorithms to him, such as bubble first, and then open others to him. But in this case, suppose what he wants to learn is difficult ones, we cannot achieve this. May integral. Bubble, integral, unlock (recharge); token, upgrade, reward mechanism; within a single algorithm or all algorithms? Milepost.
+     3. Huang：In the two modes, the algorithm distinguishes the difficulty, what can be exchanged for reward token, skin and interface color?
+     4. Han：There may not be long-term users who will be lost after learning; therefore, I don't want to have login. Target users: self-taught programmers, people who don't understand
+     5. yn：May add efficiency part, but we pay more attention to correction. Let him finish the evaluation on his own or when he finishes it?
+       6. Chen：
+          1. Prefabricated animation
+          2. Novice tutorial
+          1. Test the demo module, let the user input the number by himself, the previous step, the next step, and the automatic playback, so that the user can know what the algorithm is doing
+          2. User drag module, (we'll discuss a few more at that time) because he probably understands that he imitates the way the algorithm drags, which is more interactive and user friendly. It can detect whether he is dragging the right one in real time, which is more interactive than the one dragging on the right, and can also prompt
+          3. Unlock the final module: scratch pseudo code, there may be several steps wrong, let him correct
+          4. If the user wants to see the code, show him the code in various languages we provide
+       7. When showing the code to him, show the language he wants? Heshan is not Party A. We may evaluate what percentage of users want to see the code and give Heshan the things they have investigated for confirmation.
+     2. Help other users understand and master the significance of sorting algorithm?
+     3. Once again, we can't understand what correction is and how to prove it.
 
-     2. jyt：闯关，游戏。先开放简单的给他，比如先冒泡，再开放其他的给他。但是这样的话假设他想学的在后面；积分。10分-》冒泡，积分，解锁（充值）；代币，升级，奖励机制；单个算法之内还是所有算法？里程碑；
+   - 
 
-     3. yn：两种模式，算法区分难度，奖励代币可以兑换什么，皮肤、界面颜色？
+   - determine the target audience and market analysis of our products (where can they be used? Will you use them more? Competition comparison, analysis, advantages and limitations, which Heshan requires to be written in the report)
+     -Don't think about kids, because it's hard to deal with.
+     -College students who are interested in computers but basic.
+     -Host group: Freshman CS major, teachers
+     market analysis
+     -Do you want to send out questionnaires or ethic?
+     Competitive products
 
-     4. rz：可能不会有长期用户，学完就丢了；所以我不想有登录，目标用户：自学编程、没理解的人
+   - literature review
 
-     	5. yn：efficiency，但是我们更注重correctness。让他自主地去完成在评价，还是在他完成时评价？
-      	6. Csl：
-           	1. 预制动画
-           	2. 新手教程
-                	1. 测试演示模块，让用户自己输入数字也可以，上一步、下一步、自动播放，让用户知道算法在干嘛
-                	2. 用户拖动模块，（到时候再讨论有几个）因为他大概在理解，他自己模拟算法拖动的样子，比较有交互性，user-friendly，实时检测他是否拖对，比右边拖那个更有交互性，还可以提示
-                	3. 解锁最终模块：scratch伪代码，可能有几个步骤是错的，让他纠错
-                	4. 如果用户想看代码的话，给他看我们提供的各种语言的代码
-      	7. 给他显示代码的时候，显示他想要的语言？heshan不是甲方，百分之多少的用户想看code，拿调查出来的东西给heshan确认。
-      	8. 要帮他用户理解，掌握排序算法的意义吗？
-      	9. 再问一次，correctness到底是什么，如何证明，我们没办法理解。
+     1. Animation demonstration https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html, no code, only animation sort
+     2. Code puzzle http://snapapps.github.io/edgy/app/edgy.html It looks like pseudo code, but it's not for sorting algorithms
+     3. Galant diagram demonstration https://github.com/mfms-ncsu/galant Although the form of bar may be monotonous, they use Galant graph, which may replace this thing
+     4. Sortko: using mobile devices to learn sorting algorithm https://ieeexplore.ieee.org/document/6185079 This paper is a mobile phone software, this article reference value is relatively high, has the collection data.
+     5. Visa: visualization of sorting algorithms https://ieeexplore.ieee.org/document/6240816 Visualization of sorting algorithm,
+     6. All of these can be used in the literature review. The professor's words can be shown to him.
+     7. Algorithm animation diagram
+        -Discuss what we need to do in the requirement analysis phase (survey and interview to collect information, determine functional and non functional, draw UML, etc.)
+        -I didn't have time to talk about it this time
+     8. Select SE method, discuss the arrangement of the later stage, and preliminarily determine the process (estimated to be 15 minutes)
+        -Which SE method is more suitable for us? (maybe try the combination for a while, as Dave said)
+        -Agile, while doing the process, there may be confirmation work and a process involving stackholders.
+        -The general direction should be clear.
+        -Test documentation? After confirming the complete function, we should be very clear about how to test the process and effect.
+        -After the selection, discuss our future plans and roughly determine what to do in the future
+        -Finish the requirement by the 29th
+     9. Ethics form (estimated 10 minutes)
+        -Han and Colin are responsible for the assignment.
+     10. Website (estimated 15 minutes)
+         -I bought a template and picked a template to show you. only one index.html For convenience.
+         -Project brief (such as timeline), project document (download link, data, code version), what are you doing at this stage (cycle, file, introduction, continuous update), team member introduction (email, division of labor), and other modules to see what other requirements are
+         -How to add document to the website. The result of the current discussion is to put links. Tym will do it.
+         -Add project introduction, copy to be sent.
+         -The logo doesn't have to be. It's OK to design one at will, and it's OK to find it online.
 
-   - 确定我们产品的目标人群和市场分析（可以用在哪里，大家会多多用吗，竞品比对、分析，优点和限制，这部分heshan要求写在report里）
+   - Discuss the definition of correction (estimated 15 minutes)
 
-     - 不考虑小孩子，因为很难对付。
-     - 对计算机有兴趣但基础的大学生。
-     - 主人群：大一CS专业、教师
+     ​	On correction, we put forward our own views
 
-     市场分析
+     ​	Meet the definition? You can prove it in your own way.
 
-     - 发问卷、要不要ethic？
+     ​	Tell the user that the algorithm is correct.
 
-     竞品
+     ​	How to realize this requirement and possible ways
 
-     - literature review
-     - 动画演示 https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html  ，不展示代码，只有动画排序
-     2. 代码拼图 http://snapapps.github.io/edgy/app/edgy.html，看起来像拼伪代码，但是不是针对排序算法
-     3. Galant图演示 https://github.com/mfms-ncsu/galant，库，虽然bar的形式做可能会单调，他们用的是galant图，也许可以代替这个东西
-     4. Sortko：使用移动设备学习排序算法   https://ieeexplore.ieee.org/document/6185079，论文，是一个手机上的软件，这篇文章参考价值比较高，有收集资料。
-     5. ViSA: Visualization of sorting algorithms 可视化   https://ieeexplore.ieee.org/document/6240816，论文，排序算法可视化，
-     5. 这些都可以在 literature review里用到。教授的话，可以展示给他看。
-     5. 算法动画图解
-
-   - 讨论需求分析阶段我们要做的事（survey和interview来收集信息，确定functional和non-functional，画UML等）
-
-     - 这次时间没来得及，没讨论这个事情
-
-3. 选定SE method，讨论后面阶段的安排，初步确定流程（预计15分钟）
-
-   - 哪种SE method更适合我们？（或许像dave说的两者结合尝试一段时间）
-     - Agile，边做过程可能边会有确认工作，有stackholder参与的过程。
-     - 大致的方向要说明白。
-     - 测试文档化？确认了完整的功能之后，要非常明确的如何测试的过程和效果。
-   - 选定之后，讨论我们后面的计划，大致确定下之后要做的事情
-     - 29号之前搞定requirement
-
-4. ethics form（预计10分钟）
-
-   - 分配任务完成，韩、Colin负责。
-   
-5. website（预计15分钟）
-
-   - 买了模版，挑到了一个模版，给大家看。只有一个index.html，以方便。
-   - project brief（timeline之类的）、project document（下载链接、数据、代码version）、现阶段在做什么（周期、文件、介绍，持续更新）、Team成员介绍（email、分工）、其他的模块看还有什么别的需求
-   - document怎么加在网站上。目前讨论的结果是放链接。这个事情tym来做。
-   - 加项目介绍，文案要发。
-   - logo不一定要，随便设计一个也可以，网上找的也行。
-
-6. 讨论correctness的定义（预计15分钟）
-
-   - 关于correctness，大家提出自己的看法
-     - 符合定义？可以有自己的方式证明。
-     - 告诉用户这个算法是正确的。
-   - 如何实现这一要求，可能的办法
-     - 待讨论
-
-9. 下次会议准备 (实际完成时间: x分钟)
-  - **Chairperson:** Colin 
-  - **Secretary:** tym hyn
-  - （再下一次 hyn + jyt）
-  - **Time:** 周四 
-  - (下次会议简略内容)跟进
-
-
-
-
-
-<br>
-
--------
-
-
-### Last stage's action points review
-
-| **任务** | **负责人** | **报告** | **问题** | **完成度** |
-| -------- | --------- | -------- | -------- | ---------- |
-|  |  |  |  |  |
-|          |            |          |          |            |
-|          |            |          |          |            |
+9. Next meeting preparation
+  - **Chairperson:** Chen
+  - **Secretary:** Tang Huang
+  - (next after next) Huang + Jiang
+  - **Time:** Thursday
 
 <br>
 
 
 ### Action points 
 
-| **任务**                    | **负责人** | **DDL** |
-| --------------------------- | ---------- | ------- |
-| 问卷联系老师                | huangyani  | 10.29？ |
-| 设计问卷，每个人想4-6个问题 | huangyani  | 10.21   |
-| requirements确认            |            |         |
-| ethics forms                | han、jiang | 10.29   |
+| Tasks                                                | Member     | **DDL** |
+| ---------------------------------------------------- | ---------- | ------- |
+| Contact teacher for questionnaire (to distribute it) | Huang      | 10.29   |
+| Questionnaire design. 4-6 questions for each member  | huang      | 10.21   |
+| Requirements validation                              |            |         |
+| Ethics forms                                         | Han, Jiang | 10.29   |
 
 <br>
 
 ### Problems
 
-| **优先级（0最高，5最低）** | **问题描述**                                      | **预计后果** | **提出人** | **暂定解决方案** | **预计解决日期** |
-| -------------------------- | ------------------------------------------------- | ------------ | ---------- | ---------------- | ---------------- |
-| 3                          | agenda?会议记录放到report里是不是用word写比较好？ |              |            |                  | 10.22            |
-| 0                          | correctness到底什么定义，我们还是理解不了。       |              |            |                  | 10.29            |
-| 1                          | 跨平台？html？网页不算软件。用别的我觉得不行。    |              |            |                  | 11.5             |
+| **Priority (Highest 0, Lowest 5)** | Description                                                  | **Expected Result** | Member | Temporary  Solution | **E**xpected Solve Time |
+| ---------------------------------- | ------------------------------------------------------------ | ------------------- | ------ | ------------------- | ----------------------- |
+| 3                                  | Is it better to write agenda and minutes in Word to be put into report? |                     |        |                     | 10.22                   |
+| 0                                  | Definition of correctness                                    |                     |        |                     | 10.29                   |
+| 1                                  | Platform                                                     |                     |        |                     | 11.5                    |
 
 <br>
 
@@ -215,18 +182,10 @@
 
 ## Comments
 
-（这部分归 Leader 写，内容：这次会议进展的是否如预期？会议本身是否有问题？如何解决？）
+(from sec: actually, I feel that the summary of the last meeting is not complete enough.)
 
+The meeting proceeded smoothly, and most of the discussions needed to be done were completed within the scheduled time and a result was reached.
+There are a few things that are not very good:
 
-
-（来自sec：我其实个人感觉对上次会议的总结不够全）
-
-
-
-会议开展较顺利，在预定时间内完成了需要做的大部分讨论并得出一个结果。
-
-有几个不太好的地方：
-
-1. 对于某些流程不太了解，做的准备工作不够充分，以至于不知道怎样把讨论引导到正确的方向。例如今天对于后续计划的讨论，由于自己对整个流程不太熟悉，没有很好的表达出需要讨论的内容，似乎没有得到一个明确的结果。下次需要做更多的准备才行。
-
-2. 话题转换很生硬，只是在念agenda。会在下次其他组员做chairperson时候学习一下。或许在讲每一个讨论点的时候，可以给一些思路，大致能聊些什么，帮助大家想到更多的东西。
+1. I don't understand some processes very well, and the preparation work is not enough, so that I don't know how to guide the discussion in the right direction. For example, today's discussion on the follow-up plan did not get a clear result because I was not familiar with the whole process and did not express the content to be discussed well. You need to do more preparation next time.
+2. The topic change is very stiff, just reading agenda. I'll learn about it the next time the other team members do the chair person. Maybe when we talk about each discussion point, we can give some ideas and talk about something to help people think of more things.

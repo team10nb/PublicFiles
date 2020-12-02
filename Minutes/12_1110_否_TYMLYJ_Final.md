@@ -30,26 +30,21 @@
 
 *The whole meeting is expected to take 60 minutes.*
 
-1. 工作总结（上一次的chairperson做，5m）
+1. Review of last week
 
-2. 问卷（10m）
+2. Questionnaire
 
-   看问卷结果，大概讨论如下内容：
+   See the results
 
-   1. 收集到的信息是什么（大概多少的人选择了哪一项，意味着什么）；
+   1. What is the results
 
-      1. 15-30 
-      2. 
+   2. Depending on these results, what should be changed in the current requirements
+   
+3. When to end
+   
+3. Are we following the full year timetable plan?
 
-   2. 我们根据这些信息，需要对requirement做出什么样的改变；
-
-   3. 收集到什么时候为止。
-
-      ！打卡！
-
-3. 我们根据大进度来做了吗？（5m）
-
-   1. 目前似乎没有人管大进度，或者我们的开发方法是什么。我们需要明确这些方面；
+   1. It seems that nobody is taking control of the whole process.
    2. 本学期做什么，寒假做什么，下学期做什么，我觉得这次会议起码要明确这些。
 
 4. internal report
