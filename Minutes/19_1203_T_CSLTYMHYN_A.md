@@ -30,31 +30,39 @@
 
 *The whole meeting is expected to take 30 minutes.*
 
-1. Opening（1m）
+1. Opening（2m）
 
    Revision of last week
 
-   ·    Requirements were concluded and waiting for validation
+   - Requirements were concluded and waiting for validation
 
-   ·    Technical research was done by team members
+   - Technical research was done by team members
 
-   ·    First draft of Interim Report was finished
+   - First draft of Interim Report was finished
 
-2. Interim report feedback and discussion
+2. Interim report feedback and discussion (18m)
 
-   ·    Requirements reference changed
+   Yuting is the prime editor, she will introduce the structure and describe some of the issues we met.
 
-   ·    High fidelity prototype
+   - Requirements reference changed
 
-   ·    Referencing website issue
+   - High fidelity prototype
 
-   ·    Words count issue
+   - Referencing website issue
 
-3. Requirement validation
+   - Words count issue
+   - Indentation issue
 
-   ·    Requirements document comments
+3. Requirement validation (10m)
 
-   ·    Use case diagram comments
+   - Requirements document comments
+
+   - Use case diagram comments
+
+4. After meeting
+
+   - Next week's arrangement
+   - Book a classroom
 
 <br>
 
