@@ -14,7 +14,7 @@
 
 **Translator:**  Yuting Jiang
 
-**Attendence:** /6
+**Attendence:** 6/6
 
 | **Members** | **Yiming Tang, Shiliang Chen, <br>Yani Huang, Ruizi Han, <br>Yijie Lu, Yuting Jiang** |
 | ----------- | ------------------------------------------------------------ |
@@ -71,13 +71,13 @@
 5. Decide who will take the interview with the IPA module convenor (About 2 minutes).
 
 
-\- **Chairperson: ** Yuting JIANG
+**Chairperson: ** Yuting JIANG
 
-\- **Secretary: **Yijie LU and Ruizi HAN
+**Secretary: ** Yijie LU and Ruizi HAN
 
-\- **Time: **10:00a.m. on October 29th 
+**Time: ** 10:00a.m. on October 29th 
 
-\- **What is going to be discussed in the next meeting:**
+**What is going to be discussed in the next meeting:**
 
 - Review what has been finished.
 - Check the info sheet and survey and the interview questions.

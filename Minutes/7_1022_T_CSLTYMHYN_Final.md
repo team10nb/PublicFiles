@@ -13,7 +13,7 @@
 
 **Translator:** Yiming Tang & Yani Huang
 
-**Attendence:**
+**Attendence:** 7/7
 
 | Attend | **Heshan Du, Yiming Tang, Shiliang Chen, <br>Yani Huang, Ruizi Han, <br>Yijie Lu, Yuting Jiang** |
 | ------ | ------------------------------------------------------------ |
@@ -40,21 +40,21 @@
 	
 2. quick review (expected 2m)
 
-  - Yani has been working on the group site with Yiming and they are also going to design a group logo for us
+    - Yani has been working on the group site with Yiming and they are also going to design a group logo for us
 
-    a preview version of it has been developed and detailed content will be added in few days
+    - a preview version of it has been developed and detailed content will be added in few days
 
-  - Yiming has sent you a email with a minute file attatched, and we have received several files from you
+    - Yiming has sent you a email with a minute file attatched, and we have received several files from you
 
-  - we've discussed about the target group. 
+    - we've discussed about the target group. 
 
-  - We've been working on analysing more similar products and writing requirements of our product and also come up with several new ideas. They'll be declared later in the meeting
+    - We've been working on analysing more similar products and writing requirements of our product and also come up with several new ideas. They'll be declared later in the meeting
 
   - we've designed a survey in order to gather and verify requirements. This will be discussed later.
 
-  - We've decided to use Agile method in order to include more client participation. However, since we are new in SE, somehow detailed plan will also be made to help manage the whole process.
+    - We've decided to use Agile method in order to include more client participation. However, since we are new in SE, somehow detailed plan will also be made to help manage the whole process.
 
-  - we've done personality test and got more familiar with each other
+    - we've done personality test and got more familiar with each other
 
     does anyone has any questions in this part?
 
@@ -114,20 +114,16 @@
 
 
 1. Discussion
-
-   1. Dr. Heshan would like agendas be in her template's style. So what every chairperson has to do is edit the agenda in the style and send it to Dr. Heshan before the meeting.
+	
+	- Dr. Heshan would like agendas be in her template's style. So what every chairperson has to do is edit the agenda in the style and send it to Dr. Heshan before the meeting.
 2. Review
-   1. Dr. Heshan is overall satisfied with our process.
-
-
-      3. About survey
-
-               1. Dr. Heshan likes our draft questionnaire. Her advice is put English in front of Chinese, because the official language is EN.
-               2. Dr. Heshan mentioned correctness is a difficult point, but in this meeting we are still not clear about correctness.
-
-      4. About requirements
-               1. Dr. Heshan thinks we are not dealing with requirements, but designing the software. This is too far from current schedule. She says we seem to be already having the software model, writing requirements based on this. This is not in line with the software engineering process. 
-               2. She gave us these suggestions: don't write "click", "button" in the requirements, it is better to describe which functions it would implement; also, distinguish functional requirements and non-functional requirements; finally, write out the most important requirements, instead of show the process.
+	- Dr. Heshan is overall satisfied with our process.
+	- About survey
+	- Dr. Heshan likes our draft questionnaire. Her advice is put English in front of Chinese, because the official language is EN.
+	- Dr. Heshan mentioned correctness is a difficult point, but in this meeting we are still not clear about correctness.
+3. About requirements
+	- Dr. Heshan thinks we are not dealing with requirements, but designing the software. This is too far from current schedule. She says we seem to be already having the software model, writing requirements based on this. This is not in line with the software engineering process. 
+	- She gave us these suggestions: don't write "click", "button" in the requirements, it is better to describe which functions it would implement; also, distinguish functional requirements and non-functional requirements; finally, write out the most important requirements, instead of show the process.
 
 5. Next meeting (informal)
 

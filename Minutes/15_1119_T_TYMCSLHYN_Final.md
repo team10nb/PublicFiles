@@ -12,9 +12,9 @@
 
 **Secretary:**  Shiliang Chen & Yani Huang
 
-**Translator:**  
+**Translator:**  Shiliang Chen
 
-**Attendence:** /7
+**Attendence:** 7/7
 
 | **Members** | **Yiming Tang, Shiliang Chen, <br>Yani Huang, Ruizi Han, <br>Yijie Lu, Yuting Jiang<br/>Dr. Heshan** |
 | ----------- | ------------------------------------------------------------ |
@@ -46,8 +46,9 @@
 
       Other：
 
-      1. UML and Use Case will be done by Shiliang and Yani
-      2. Sequence will be done by Ruizi
+      - UML and Use Case will be done by Shiliang and Yani
+
+      - Sequence will be done by Ruizi
 
    3. questionnaire report（2m）
 
@@ -114,7 +115,7 @@
 
 **What is going to be discussed in the next meeting:**
 
-revison:
+Revison:
 
 1. use case diagram
 2. requirement
@@ -129,9 +130,7 @@ revison:
 
 | **Task**                                | **Members**                | **Report** | **Question**                                                 | **Completeness** |
 | --------------------------------------- | -------------------------- | ---------- | ------------------------------------------------------------ | ---------------- |
-|          |             |            |              |                  |
-|          |             |            |              |                  |
-|          |             |            |              |                  |
+| / | / | / | / | / |
 
 <br>
 
@@ -158,7 +157,7 @@ revison:
 
 | Priority(0 for highest, 5 for lowest) | **Problem Description**                         | **Possible consequence**                | **Proposer** | **Tentative Solution**     | **Expected completion time** |
 | ------------------------------------- | ----------------------------------------------- | --------------------------------------- | ------------ | -------------------------- | ---------------------------- |
-|                                       |                         |                          |              |                        |                              |
+| / | / | / | / | / | / |
 
 
 <br>
@@ -169,3 +168,4 @@ revison:
 
 ## Comments
 
+/

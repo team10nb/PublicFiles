@@ -12,7 +12,7 @@
 
 **Translator:** Ruizi Han
 
-**Attendence:**
+**Attendence:** 6/6
 
 | **Members** | **Yiming Tang, Shiliang Chen, <br>Yani Huang, Ruizi Han, <br>Yijie Lu, Yuting Jiang** |
 | ----------- | ------------------------------------------------------------ |
@@ -116,4 +116,4 @@ Main problems found here are:
 1. submision and checking of works should be done before the meeting. Common problems shall be mentioned during the meeting, otherwise after the meeting privately
 2. agenda shall be released at least half an hour before start to get every body prepared.
 3. Template for bid is kinda rough. I will reorganise it after meeting
-4. checking for cvs will be done after meeting
+4. checking for CVs will be done after meeting

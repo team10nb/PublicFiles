@@ -67,13 +67,10 @@
    - questions for Y1, Y2, Y3 would be slightly different
 
 
-\- **Chairperson: ** Yiming Tang
-
-\- **Secretary: ** Yijie Lu
-
-\- **Time: ** 11/10 19:30 
-
-\- **Remark**:
+**Chairperson: ** Yiming Tang
+**Secretary: ** Yijie Lu
+**Time: ** 11/10 19:30 
+**Remark**:
 
 - check literature review for every one
 - feedback of focus group

@@ -70,43 +70,44 @@
 
 The main point Dr. Heshan wants to say in this meeting is about **simple and direct**.
 
-We should name the chapters in simple and direct way, for example **key implement decisions**, **aims**, **technical issue** should be shown, and stick to the handbook. Otherwise, the markers would not know if the  contains required parts, and have to find them one by one. They may not have time to do that, and simply thinks it doesn't have these things.
+- We should name the chapters in simple and direct way, for example **key implement decisions**, **aims**, **technical issue** should be shown, and stick to the handbook. Otherwise, the markers would not know if the  contains required parts, and have to find them one by one. They may not have time to do that, and simply thinks it doesn't have these things.
 
 **Others:** 
 
-Don't have to delete the red box at the Table of Contents because it's LaTeX's format.
+- Don't have to delete the red box at the Table of Contents because it's LaTeX's format.
 
-The structure looks good.
+- The structure looks good.
 
-Would like to see this year's handbook, otherwise she doesn't know what should be contained either.
+- Would like to see this year's handbook, otherwise she doesn't know what should be contained either.
 
-For time plan, we should first describe it a little bit, then give the pictures and diagrams.
+- For **time plan**, we should first describe it a little bit, then give the pictures and diagrams.
 
-For reference, our reference format seems to be incorrect. If it is an online article, we should add **latest accessed time**, etc.
+- For **reference**, our reference format seems to be incorrect. If it is an online article, we should add **latest accessed time**, etc.
 
-Bibliography text category seems incorrect.
+- Bibliography text category seems incorrect.
 
-Details of titles, like spell errors, comma issues, should be fixed. They seem to be small but important.
+- Details of titles, like spell errors, comma issues, should be fixed. They seem to be small but important.
 
-Minutes should be put into Appendix.
+- Minutes should be put into Appendix.
 
-The first paragraph of Introduction, we should firstly explain what is sorting algorithms, give an example, then state the importance of this. Extend the sentences, get them detailed enough, to make eople who are unfamiliar with it can understand them.
+- The first paragraph of Introduction, we should firstly explain what is sorting algorithms, give an example, then state the importance of this. Extend the sentences, get them detailed enough, to make eople who are unfamiliar with it can understand them.
 
-In page 5, 2.2.1 "visualization and animation number is 1", is strange.
+- In page 5, 2.2.1 "visualization and animation number is 1", is strange.
 
-Some lower category is not necessary to give it a section number. For example in page 7, web, just bold it.
+- Some lower category is not necessary to give it a section number. For example in page 7, web, just bold it.
 
-page 32, requirement specification, explain non & functional first para.
+- page 32, requirement specification, explain non & functional first para.
 
-core features,  select a type of sorting algorithm, not clear, ambiguous.
+- core features,  select a type of sorting algorithm, not clear, ambiguous.
 
-2.b, the sorting algoirthm, clear. Sorting animation related feature, order, which sorting algorithm they want to see. how user do this step by step. State them in a logical way. 
+- 2.b, the sorting algoirthm, clear. Sorting animation related feature, order, which sorting algorithm they want to see. how user do this step by step. State them in a logical way. 
 
-Don't agree with the non-functional requirement, only supports Windows.
+- Don't agree with the non-functional requirement, only supports Windows.
 
-Delete **only**.
+- Every chapter should have an introduction.
 
-Every chapter should have an introduction.
+<br>
 
 ## Comments
 
+/

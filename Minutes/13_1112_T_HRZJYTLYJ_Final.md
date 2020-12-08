@@ -12,14 +12,12 @@
 
 **Translator:** Yijie Lu, Yuting Jiang
 
-**Attendence:**
+**Attendence:** 7/7
 
 | **Members** | **Yiming Tang, Shiliang Chen, <br>Yani Huang, Ruizi Han, <br>Yijie Lu, Yuting Jiang** |
 | ----------- | ------------------------------------------------------------ |
 | Late        | 0                                                            |
 | Absent      | 0                                                            |
-
-
 
 <br>
 
@@ -85,17 +83,17 @@
   
 4. Report what we will do in next phase (About 10 minutes)
 
-  - check the literature review
+    - check the literature review
 
-  - feedback of focus groups
+    - feedback of focus groups
 
-  - Prepare for the introduction part
+    - Prepare for the introduction part
 
-  - stress the importance of git (introduce project feature of github)
+    - stress the importance of git (introduce project feature of github)
 
-  - prototype presentation
+    - prototype presentation
 
-    -**Next meeting**:
+**Next meeting**:
 
   - **Chairperson:** Yuting Jiang
   - **Secretary:** Yani HUANG

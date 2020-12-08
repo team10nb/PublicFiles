@@ -12,7 +12,7 @@
 
 **Translator:** Yani HUANG
 
-**Attendence:**
+**Attendence:** 6/6
 
 | **Members** | **Yiming Tang, Shiliang Chen, Yani Huang, Ruizi Han, Yijie Lu, Yuting Jiang** |
 | ----------- | ------------------------------------------------------------ |
@@ -34,8 +34,7 @@
    - Prototype
 2. Questionnaire analysis (About 10 minutes)
 
-- Focus on the different results
-
+	- Focus on the different results
 1. Website update (About 5 minutes)
 2. Technical research (About 15 minutes)
    - Summarize current process and next step
@@ -48,7 +47,8 @@
 6. Next meeting prepare (About 5 minutes)
 
 
-\------
+
+------
 
 ## Minute
 
@@ -76,7 +76,7 @@
 
 | **Task** | **Members** | **Report** | **Question** | **Completeness** |
 | -------- | ----------- | ---------- | ------------ | ---------------- |
-|          |             |            |              |                  |
+| /        | /           | /          | /            | /                |
 
 
 
@@ -84,13 +84,15 @@
 
 | **Task** | **Members** | **DDL** |
 | -------- | ----------- | ------- |
-|          |             |         |
+| /        | /           | /       |
 
 
 
 ### Problems
 
 | **Priority(0 for highest, 5 for lowest）** | **Problem Description** | **Possible consequence** | **Proposer** | **Tentative Solution** | **Expected completion time** |
+| ------------------------------------------ | ----------------------- | ------------------------ | ------------ | ---------------------- | ---------------------------- |
+| / | / | / | / | / | / |
 
 
 

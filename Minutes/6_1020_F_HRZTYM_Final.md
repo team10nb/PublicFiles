@@ -85,22 +85,31 @@
    - Share
 
      1. Tang: Encourage
-     2. Jiang: Game. First open simple algorithms to him, such as bubble first, and then open others to him. But in this case, suppose what he wants to learn is difficult ones, we cannot achieve this. May integral. Bubble, integral, unlock (recharge); token, upgrade, reward mechanism; within a single algorithm or all algorithms? Milepost.
-     3. Huang：In the two modes, the algorithm distinguishes the difficulty, what can be exchanged for reward token, skin and interface color?
-     4. Han：There may not be long-term users who will be lost after learning; therefore, I don't want to have login. Target users: self-taught programmers, people who don't understand
-     5. yn：May add efficiency part, but we pay more attention to correction. Let him finish the evaluation on his own or when he finishes it?
-       6. Chen：
-          1. Prefabricated animation
-          2. Novice tutorial
-          1. Test the demo module, let the user input the number by himself, the previous step, the next step, and the automatic playback, so that the user can know what the algorithm is doing
-          2. User drag module, (we'll discuss a few more at that time) because he probably understands that he imitates the way the algorithm drags, which is more interactive and user friendly. It can detect whether he is dragging the right one in real time, which is more interactive than the one dragging on the right, and can also prompt
-          3. Unlock the final module: scratch pseudo code, there may be several steps wrong, let him correct
-          4. If the user wants to see the code, show him the code in various languages we provide
-       7. When showing the code to him, show the language he wants? Heshan is not Party A. We may evaluate what percentage of users want to see the code and give Heshan the things they have investigated for confirmation.
-     2. Help other users understand and master the significance of sorting algorithm?
-     3. Once again, we can't understand what correction is and how to prove it.
 
-   - 
+     2. Jiang: Game. First open simple algorithms to him, such as bubble first, and then open others to him. But in this case, suppose what he wants to learn is difficult ones, we cannot achieve this. May integral. Bubble, integral, unlock (recharge); token, upgrade, reward mechanism; within a single algorithm or all algorithms? Milepost.
+
+     3. Huang：In the two modes, the algorithm distinguishes the difficulty, what can be exchanged for reward token, skin and interface color?
+
+     4. Han：There may not be long-term users who will be lost after learning; therefore, I don't want to have login. Target users: self-taught programmers, people who don't understand
+
+     5. yn：May add efficiency part, but we pay more attention to correction. Let him finish the evaluation on his own or when he finishes it?
+
+       6. Chen：
+
+          - Prefabricated animation
+
+          - Novice tutorial
+          - Test the demo module, let the user input the number by himself, the previous step, the next step, and the automatic playback, so that the user can know what the algorithm is doing
+          - User drag module, (we'll discuss a few more at that time) because he probably understands that he imitates the way the algorithm drags, which is more interactive and user friendly. It can detect whether he is dragging the right one in real time, which is more interactive than the one dragging on the right, and can also prompt
+          - Unlock the final module: scratch pseudo code, there may be several steps wrong, let him correct
+          - If the user wants to see the code, show him the code in various languages we provide
+
+       7. When showing the code to him, show the language he wants? Heshan is not Party A. We may evaluate what percentage of users want to see the code and give Heshan the things they have investigated for confirmation.
+
+     8. Help other users understand and master the significance of sorting algorithm?
+
+     9. Once again, we can't understand what correction is and how to prove it.
+
 
    - determine the target audience and market analysis of our products (where can they be used? Will you use them more? Competition comparison, analysis, advantages and limitations, which Heshan requires to be written in the report)
      -Don't think about kids, because it's hard to deal with.
@@ -150,7 +159,7 @@
 9. Next meeting preparation
   - **Chairperson:** Chen
   - **Secretary:** Tang Huang
-  - (next after next) Huang + Jiang
+  - (next meeting after next) Huang + Jiang
   - **Time:** Thursday
 
 <br>
@@ -182,7 +191,7 @@
 
 ## Comments
 
-(from sec: actually, I feel that the summary of the last meeting is not complete enough.)
+> From sec: actually, I feel that the summary of the last meeting is not complete enough.)
 
 The meeting proceeded smoothly, and most of the discussions needed to be done were completed within the scheduled time and a result was reached.
 There are a few things that are not very good:
