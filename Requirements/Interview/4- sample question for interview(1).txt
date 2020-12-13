@@ -1,0 +1,17 @@
+1. What kind of methods will you use in teaching sorting algorithms? PowerPoint, some drawing or a similar sorting animation software?
+了解我们用户平时在学校里接受该方面知识的方式
+2. Have you ever recommend students to use a algorithm visulisation tool?
+了解AV tool在老师眼中的可用程度
+3. What is the hard part of learning sorting algorithms? Does the learning of sorting algorithms have any dependencies, bubble first?
+了解在老师眼里难点在哪里
+4. What kind of sorting algorithms related questions are asked most?
+了解学生眼里难点在哪里，哪里最不好理解
+5. What do you think about the ‘correctness’ of sorting algorithms?
+询问其对correctness看法
+6. Do you prefer to use the software for demonstration during class or recommend students to use it after class? If recommended, will students utilise it?
+此类tool更像是demon用还是适合学生自学复习巩固
+7. There exists many algorithm visulisation products, why don't they come into class to be used by students?
+在第一题的基础上，询问对于此类软件未被大家广泛使用的原因, 希望加入什么功能
+8. What kink of problems do you think hinder these products' spread
+探究阻碍此类产品传播的原因，以期我们弥补问题
+9. Which platform do you prefer to use this software? 

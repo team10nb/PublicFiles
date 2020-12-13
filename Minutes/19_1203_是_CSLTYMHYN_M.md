@@ -199,3 +199,153 @@ every chapter introduction
 
 ## Comments
 
+#include "stdio.h"
+#include "coursework.h"
+#include "linkedlist.h"
+#include <stdlib.h>
+
+
+
+void initialise(struct element **head, struct element **tail)
+{
+
+    for (size_t i = 0; i < NUMBER_OF_PROCESSES; i++)
+    {
+        addLast(generateProcess(), head, tail);
+        
+    }
+    
+}
+
+
+
+void list_free(struct element **start, struct element **end)
+{
+   struct element *cur = *start;
+   while(cur != NULL)
+   {
+      struct element *temp = cur->pNext;
+      free(cur);
+      cur = temp;
+   }
+   *start = NULL;
+   *end = NULL;
+}
+
+int main(int argc, char const *argv[])
+{
+    struct element *head = NULL;
+    struct element *tail = NULL;
+    struct element *curPtr = NULL;
+    struct process *current = NULL;
+    
+    // initialise(&head, &tail);
+
+    struct element *heads[MAX_PRIORITY+1];
+    struct element *tails[MAX_PRIORITY+1];
+    for (size_t i = 0; i < MAX_PRIORITY+1; i++)
+    {
+        heads[i] = NULL;
+    }
+    
+    struct process *sortArray[NUMBER_OF_PROCESSES];
+    for (size_t i = 0; i < NUMBER_OF_PROCESSES; i++)
+    {
+        struct process *process = generateProcess();
+        sortArray[i] = process;
+    }
+
+
+    for (size_t i = 0; i < NUMBER_OF_PROCESSES; i++)
+    {
+        struct process *process = sortArray[i];
+        int priority = process->iPriority;
+        addLast(process, &heads[priority], &tails[priority]);
+        struct process *cur = (struct process *)heads[priority]->pData;
+        
+    }
+
+    curPtr = head;
+    double currentResponseTime = 0;
+    double currentTurnaroundTime = 0;
+    double totalResponseTime = 0;
+    double totalTurnaroundTime = 0;
+    double temp = 0;
+    
+    printf("%s\n", "PROCESS LIST");
+
+    for (size_t i = 0; i < MAX_PRIORITY + 1; i++)
+    {
+        struct element *cur = heads[i];
+        if (cur != NULL)
+        {
+            printf("Priority %d\n", i);
+            while (cur != NULL)
+            {
+                struct process *pro = (struct process *)cur->pData;
+                printf("	 Process Id = %d, Priority = %d, Initial Burst Time = %d, Remaining Burst Time = %d\n", pro->iProcessId, pro->iPriority, pro->iInitialBurstTime, pro->iRemainingBurstTime);
+                cur = cur->pNext;
+            }
+        }
+    }
+    printf("%s\n\n", "END");
+
+    int flag = 0;
+    for (size_t i = 0; i < MAX_PRIORITY+1; i++)
+    {
+        struct timeval startTime;
+        struct timeval endTime;
+        struct element *cur = heads[i];
+
+        while (cur != NULL)
+        {
+            struct process *pro = (struct process *)cur->pData;
+
+            if (pro->iRemainingBurstTime > 0)
+            {
+                flag = (pro->iInitialBurstTime == pro->iRemainingBurstTime);
+                runPreemptiveJob(pro, &startTime, &endTime);
+                if (flag)
+                {
+                    currentResponseTime = temp;
+                    totalResponseTime += temp;
+                    printf("Process Id = %d, Priority = %d, Previous Burst Time = %d, Remaining Burst Time = %d, Response Time = %d\n", pro->iProcessId, pro->iPriority, pro->iPreviousBurstTime, pro->iRemainingBurstTime, currentResponseTime);
+                }
+                
+                temp = temp + pro->iPreviousBurstTime - pro->iRemainingBurstTime;
+            }
+
+            printf("Process Id = %d, Priority = %d, Previous Burst Time = %d, Remaining Burst Time = %d\n", pro->iProcessId, pro->iPriority, pro->iPreviousBurstTime, pro->iRemainingBurstTime);
+
+            if (pro->iRemainingBurstTime == 0 && cur == heads[i])
+            {
+                currentTurnaroundTime = temp;
+                totalTurnaroundTime += temp;
+                removeFirst(&heads[i], &tails[i]);
+                cur = heads[i];
+                // printf("%6d %9d %11d %17s %21.0f\n", pro->iProcessId, pro->iPriority, pro->iInitialBurstTime, "/", currentTurnaroundTime);
+                printf("Process Id = %d, Priority = %d, Previous Burst Time = %d, Remaining Burst Time = %d, Turnaround Time = %d\n", pro->iProcessId, pro->iPriority, pro->iPreviousBurstTime, pro->iRemainingBurstTime, currentTurnaroundTime);
+            }
+
+            if (cur != NULL && cur->pNext != NULL)
+            {
+                cur = cur->pNext;
+            }
+            else if (cur == NULL)
+            {
+                break;
+            }
+            else if (cur->pNext == NULL)
+            {
+                cur = heads[i];
+            }
+
+        }
+    }
+    
+    printf("Average response time is: %.1f\n", totalResponseTime/10);
+    printf("Average turnaround time is: %.1f\n", totalTurnaroundTime/10);
+
+    return 0;
+}
+
