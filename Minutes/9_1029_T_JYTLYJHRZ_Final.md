@@ -4,31 +4,17 @@
 
 ## Information
 
-
-
 **Time:** 2020.10.29 10:00~10:30
-
-
 
 **Location:** Online
 
-
-
 **Chairperson:** Yuting Jiang
-
-
 
 **Secretary:** Yijie Lu and Ruizi Han
 
-
-
 **Translator:** Yijie Lu and Ruizi Han
 
-
-
 **Attendence:** 7/7
-
-
 
 | **Members** | **Heshan Du, Yiming Tang, Shiliang Chen, Yani Huang, Ruizi Han, Yijie Lu, Yuting Jiang** |
 | ----------- | ------------------------------------------------------------ |
@@ -40,11 +26,7 @@
 
 ------
 
-
-
 ## Agenda
-
-
 
 *The whole meeting is expected to take 30 minutes.*
 
@@ -74,11 +56,7 @@
 
 ## Minute
 
-
-
 ### Outcomes
-
-
 
 1. Review what we have finished (Time spent: 30 minutes).
    - The minutes

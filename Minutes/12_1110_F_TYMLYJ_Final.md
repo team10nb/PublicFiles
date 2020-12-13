@@ -1,16 +1,16 @@
-# Team 10 - 13th Meeting 
+# Team 10 - 12th Meeting 
 
 ## Information
 
 **Time:**  2020.11.10 (60 min)
 
-**Location:** 
+**Location:** Library
 
-**Chairperson:**  Yiming
+**Chairperson:**  Yiming Tang
 
-**Secretary:**  
+**Secretary:**  Yijie Lu
 
-**Translator:** 
+**Translator:** Yiming Tang, Yijie Lu
 
 **Attendance:**  6/6
 
@@ -32,13 +32,10 @@
 
 2. Questionnaire
 
-   See the results
-
-   1. What is the results
-
-   2. Depending on these results, what should be changed in the current requirements
-   
-   3. When to end
+   1. See the results
+   2.  What is the results
+   3.  Depending on these results, what should be changed in the current requirements
+   4.  When to end
    
 3. Are we following the full year timetable plan?
 
@@ -60,9 +57,10 @@
 
    1. I heard that AJ is not easy to get in touch with on focus group, so how do we design it? Or when? I think it will be the end of the term if you don't make an appointment with him, or you can interview other teachers
    1. When to send email, rehearsal and interview;
-      2. Find another teacher!
-      3. If teachers want to use it, do you need to distinguish [demonstration mode (used by teachers)] and [learning mode (used by students)]
-   
+      - Find another teacher!
+
+      - If teachers want to use it, do you need to distinguish [demonstration mode (used by teachers)] and [learning mode (used by students)]
+
 7. UML
 
 <br>
@@ -95,17 +93,19 @@
 
 
 
-\- **Chairperson for next: Ruizi Han**
+**Chairperson for next: ** Ruizi Han
 
-\- **Secretary: Yijie Lu and Yuting Jiang** 
+**Secretary: ** Yijie Lu and Yuting Jiang
 
-\- **Time: November 12th**
+**Time: ** November 12th
 
-\- **What is going to be discussed in the next meeting:**
+**What is going to be discussed in the next meeting:**
 
--Reiterate the prototype is done by us, and Yiming introduced some works he did
--Report the questionaire, pick some important question to discuss, importantly mentions we do not consider game anymore and explain why
--comfirm the platform we use(PC)
+- Reiterate the prototype is done by us, and Yiming introduced some works he did
+- Report the questionaire, pick some important question to discuss, importantly mentions we do not consider game anymore and explain why
+- comfirm the platform we use(PC)
+
+<br>
 
 -------
 

@@ -12,7 +12,7 @@
 
 **Translator:** Ruizi Han and Yuting Jiang
 
-**Attendence:**
+**Attendence:** 7/7
 
 | **Members** | **Yiming Tang, Shiliang Chen, <br>Yani Huang, Ruizi Han, <br>Yijie Lu, Yuting Jiang** |
 | ----------- | ------------------------------------------------------------ |
@@ -94,9 +94,7 @@
 
 | **Task** | **Members** | **Report** | **Question** | **Completeness** |
 | -------- | --------- | -------- | -------- | ---------- |
-|  |            |          |          |            |
-|          |            |          |          |            |
-|          |            |          |          |            |
+| / | / | / | / | / |
 
 <br>
 
@@ -118,18 +116,12 @@
 
 | **Priority(0 for highest, 5 for lowest）** | **Problem Description** | **Possible consequence** | **Proposer** | **Tentative Solution** | **Expected completion time** |
 | -------------------------- | ------------ | ------------ | ---------- | ---------------- | ---------------- |
-|                            |              |              |            |                  |                  |
-|                            |              |              |            |                  |                  |
-|                            |              |              |            |                  |                  |
+| / | / | / | / | / | / |
 
 <br>
 
 -------
 
 ## Comments
-Chairperson should make sure to send the agenda to supervisor before the meeting 
-
-
-
-
+Chairperson should make sure to send the agenda to supervisor before the meeting. 
 

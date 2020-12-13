@@ -35,8 +35,8 @@
 	
 	  So we divide this meeting into 2 parts, 
 	
-	  1. self introduction, then we will talk about the project,
-	  2. discussions
+	  - self introduction, then we will talk about the project,
+	  - discussions
 	
 2. Self-introduction(About 5 minutes)
 
@@ -45,15 +45,15 @@
 3. Discussion (About 16 minutes)
 
   1. Our questions（About 6 minutes）
-
-    - We have created a GitHub repository, to manage our files. Would you have any interest to join us the private team, to take a look at it?
-    - Do you have any suggestions on our project concept and bid?
-    - How to understand the "correction" in software function?
-    - How to gather more requirements?
-    - Expenses reimbursed?
-    - Need to fill the ethics form? We thought in the Alpha testing or Beta testing, we would like to invite some other students to test the procedure,  
-    - Suggestions on our procedure?
-    - Suggestions on formal meeting?
+	
+	- We have created a GitHub repository, to manage our files. Would you have any interest to join us the private team, to take a look at it?
+	- Do you have any suggestions on our project concept and bid?
+	- How to understand the "correction" in software function?
+	- How to gather more requirements?
+	- Expenses reimbursed?
+	- Need to fill the ethics form? We thought in the Alpha testing or Beta testing, we would like to invite some other students to test the procedure,  
+	- Suggestions on our procedure?
+	- Suggestions on formal meeting?
 
   2. Heshan's questions（About 10 minutes）
 
@@ -90,8 +90,8 @@
 
   0. General
 
-  - English speaking in formal meetings (compulsory)
-  - Heshan will join our informal repo
+	- English speaking in formal meetings (compulsory)
+	- Heshan will join our informal repo
 
   1. The solution of proving the sorting algorithm’ s correctness.
 
@@ -159,8 +159,6 @@
 | **Task** | **Members** | **Report** | **Question** | **Completeness** |
 | -------- | --------- | -------- | -------- | ---------- |
 | Determine which SE process to use | All | / | TBA | 50% |
-|          |            |          |          |            |
-|          |            |          |          |            |
 
 <br>
 
@@ -193,9 +191,6 @@
 I didn't control the time well, because I didn't expect that a question could develop into a discussion of nearly ten minutes. I had planned to ask a few questions in about ten minutes, but I didn't expect that the 30 minute meeting would last nearly an hour.
 
 Next time, we can omit some questions in a planned way, and then the chairperson may have to rehearse in advance. If necessary, he can interrupt the discussion and say "we are running out of time, get into the next part.
-"
 
 In addition, the chairperson can ask the team members in the wechat group whether we can go on to the next topic.
 Every time the chairperson enter the next part, he or she must ask everyone about "any questions from others".
-
-

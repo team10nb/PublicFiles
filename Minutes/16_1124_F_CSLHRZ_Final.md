@@ -46,19 +46,21 @@
 
       3. If fully relavent, Do context and motivation have key work
 
-      2. Focus Group
+      4. Focus Group
 
-         1. Jiang and Huang briefly talk about the revision progress of the focus group report, 
-         2. arrange the next reviewer
+         - Jiang and Huang briefly talk about the revision progress of the focus group report, 
 
-      3. Risk Management
+         - arrange the next reviewer
 
-         1. Huang will talk about how the risk management and control module is done, whether it is finished or semi-finished, and then arrange for the next reviewer
+      5. Risk Management
 
-      4. Encountered Problems
+         - Huang will talk about how the risk management and control module is done, whether it is finished or semi-finished, and then arrange for the next reviewer
 
-         1. Jiang would like to introduce the production progress of this piece, and then arrange the next reviewer
-         2. Identification and description of problems, clear analysis including causes, actions and causes, including remedial measures
+      6. Encountered Problems
+
+         - Jiang would like to introduce the production progress of this piece, and then arrange the next reviewer
+
+         - Identification and description of problems, clear analysis including causes, actions and causes, including remedial measures
 
    5. Expanded description
 
@@ -76,14 +78,14 @@
       1. Tang Yiming shows prototype progress
 
       2. Emphasize the need for a clear and detailed description and explanation
-   9. Requirements Validation
+   6. Requirements Validation
       1. Tang Yiming talks about the progress of the modification of the requirements document. Everyone pass them one by one (have time), and another person reviewed it (do not have time)
-      10. Use case diagram
-          1. Huang Yani will talk about the progress of use case diagram, BGL's reply, and then arrange for the next reviewer
-      11. Interview report 
-          1. arrange for the next reviewer
-      12. User story
-          1. arrange for the next reviewer
+      2. Use case diagram
+         - Huang Yani will talk about the progress of use case diagram, BGL's reply, and then arrange for the next reviewer
+      3. Interview report 
+         - arrange for the next reviewer
+      4. User story
+         - arrange for the next reviewer
 
 
 3. Technical research & architecture design
