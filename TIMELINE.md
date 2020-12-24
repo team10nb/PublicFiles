@@ -1,4 +1,4 @@
-Estimated phases-test
+Estimated phases
 
 1. Research and preparation 10.8 - 11.15
     1.1 Background research (exiting system analysis, paper review, technical research, prepare user research) 10.8 - 11.1
