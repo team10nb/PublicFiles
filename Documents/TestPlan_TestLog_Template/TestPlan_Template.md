@@ -1,16 +1,8 @@
-# Test Plan - Example Template
-
-|Contents|
-|--------|
-|[Jump to component:](#class)|
-|[Jump to component:](#class)|
-|[Jump to component:](#class)|
-
-
-## Test Plan
+## Test Plan - Example Template
+--------
+<br>
 
 #### ComponentName: ModuleProgress
-
 
 |Test Name|Description|Operation|Expected Outcome|
 |----|------|--------|----------------|
@@ -19,7 +11,6 @@
 
 
 #### ComponentNames: ModuleButton
-
 
 |Test Name|Description|Operation|Expected Outcome|
 |----|------|----------------|------------|
