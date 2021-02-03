@@ -151,3 +151,7 @@
 ------
 
 ## Comments
+
+1. The meeting is bit long because there are many tasks to discuss
+2. The discussion participation of members is not consistent
+3. No task summarizing in detail in the meeting
