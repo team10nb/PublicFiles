@@ -20,41 +20,28 @@
 
 ### 近期重点任务:
 
-4. 学习LaTax
-2. expanded description还不够完善，根据rubric完善，一个gap信息已经邮件询问dave
-3. 背景信息和研究还需要完善细节
-4. 需求定义还需要和heshan确定，我们自己这边也需要把设计向的泛化，补充缺失的修改已有的，语法，以及需要**verifiable**，nonfun准备向bgl请教
-5. 设计上需要UML们配说明文字，要有连贯性，能与requirements相匹配（**explanation justification**）UML我们仍在设计，use case的问题准备向bgl请教
-6. 用户界面完成设计，有适当的图片和说明（**explanation justification**）
-7. 重要的设计决定的**记录**与**讨论**记录，这里我们还没有开始做
-8. 初步实现的步骤或者原型的结果，这里需要一个**progress**（步骤化）的description和presentation，然后还需要stakeholders的反馈
-9. 所遇到的问题的讨论，我们还没有整理过这一part，需要清楚的识别和解释和分析，包括原因和解决方案和解释，补救措施也要写到（我觉得可以分为预防，新遭遇的，和补救的三类）
-10. 时间计划，详细，有细节，可实现，有一个进展变化的过程，需要解释和reflection on progress
-11. 下面几个部分是关于reference的，我们还在整理中
-12. 最后是写作技巧上的，结构清晰有条理，句子意思明确易懂，不要有奇怪长难句，不要有语法错误和用词错误，以及用LaTex
+#### 开会流程
+0.	会前发送agenda和房间位置在群中, 正式会议记得还有heshan版本
+1.	回顾报告上周工作
+-	确认主持人和秘书, 以及会议时间
+-	报告已完成工作
+-	待完成issues确认
+-	确认未完成工作
+2.	本周任务讨论
+-	讨论本周待完成任务
+-	分配任务和人员
+3.	下周事务安排
+-	确认主持人和秘书
+4.	项目总览
+-	Gantt 及 timeline回顾更新
+5.	会后事项
+-	主持人更新timeline中该周工作, 记录遇到的问题, 总结反思
+-	主持人发送该周完成的任务给heshan (图片和文字)
+-	秘书更新issues, 分配给相应人员
+-	秘书整理好任务在群里也发一份, 名字-任务
+-	主持人和秘书根据需求定下周的房间
+-	csl 更新gantt
 
-### Interim Report  - 进行中， 由宇婷整理LaTex
-
-1. 扩充对于项目和对待解决问题的描述 - **进行中，已有框架和现存资料由诗量整理，由艺捷完成**
-2. 背景信息和调研
-   - 对现存的相似功能的系统的调研 - **已完成，由艺捷整理**
-   - 市场调研的结果 - **已完成FG, IV, QN，由各负责人整理**
-   - technical research的结果, 合适的平台, 工具, 技术, 算法, 数据结构 等 - 进行中
-   - 
-3. requirements specification (要与supervisor 协调后的版本) - **进行中，由艺捷整理function列表，由睿孜完成sequence diagram，由雅妮诗量完成use case diagram， 由宇婷完成user story**
-4. 要实现的系统的初步设计, 以及他的用户使用界面 - **进行中，由懿明完成原型设计，睿孜辅助完成sequence diagram**
-5. 重要的实现的决定的记录, 比如编程语言, 操作系统, 电脑, 附加的软件硬件, 以及原因 - **待进行**
-6. 初步实现步骤/prototyping 的结果 - **待进行 需要有中等级的prototype**
-7. 对于现在遇到过的问题的讨论, 包括技术上的, 管理上的, 比如小组工作 - **待进行，还未整理，平时有记录，进行中，风险管理由宇婷整理**
-8. 时间线 - **待进行，计划由诗量整理**
-9. 会议记录, 存在appendix里 - **进行中， 由各秘书整理**
-10. One printed copy of the interim group report should be submitted as well as
-an electronic copy in PDF format. The front page of the report should include: 
-• The text “COMP2043.GRP Interim Group Report”
-• Project title
-• Date
-• Team name/identifier
-• Names and School of CS usernames of all group members • Name of supervisor
 
 ## 邮箱
 
@@ -398,3 +385,15 @@ DMS课业负担过重
 1/27
 
 分两组分别做了UI和动画
+
+2/3
+
+已完成任务总结：
+1. 完成了基础UI设计
+2. 完成了部分算法动画
+3. 完成了test plan 和 test log
+4. 为final report 做准备
+
+遇到的问题：
+1. 注释和测试格式不规范
+2. 整体进度比计划慢
