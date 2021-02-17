@@ -123,7 +123,8 @@
 
 ## Comments
 
-- chairperson forget to prepare the meeting. risk management: overlay the meeting time, prepare with the secretory.
+> This is the first meeting during holiday, members are still adapting this new mode of working remotely, using internet. Chairperson needs to lead the meeting discussion. It is more difficult for chairperson to moderate a online meeting. More preparation is needed.
+
 
 
 
