@@ -50,35 +50,35 @@
 ### Outcomes
 
 1. Review the work
-- CI problem is solved
+    - CI problem is solved
 2. Discussion about next stage's work
-- everyone talked about what they still need to do for next stage:
-  - merge sort, UI interface design(correctness UI, module picture), agenda push - Yiming
-  - documentation, test, flag picture - Yijie
-  - explanation file, help picture, bar's color change - Shiliang
-  - explanation file, local save problem, main page refactor, documentation(whether demo should delete) - Yuting
-  - test - Ruizi
+    - everyone talked about what they still need to do for next stage:
+    - merge sort, UI interface design(correctness UI, module picture), agenda push - Yiming
+    - documentation, test, flag picture - Yijie
+    - explanation file, help picture, bar's color change - Shiliang
+    - explanation file, local save problem, main page refactor, documentation(whether demo should delete) - Yuting
+    - test - Ruizi
 3. What should be presented in our first formal meeting this semester?
-- interim report mark
-- show what we have done
-- requirement check
+    - interim report mark
+    - show what we have done
+    - requirement check
 4. final report
-- agenda fix
-- close issue
-- requirement check and discuss with Heshan
-- technical research, add react information
-- use case change
-- compare with previous work
-- revolution (explanation box)
-  - correctness section
-  - explanation box  
-  - studying procedure
-- user manual
-- grammar problem
+    - agenda fix
+    - close issue
+    - requirement check and discuss with Heshan
+    - technical research, add react information
+    - use case change
+    - compare with previous work
+    - revolution (explanation box)
+      - correctness section
+      - explanation box  
+      - studying procedure
+    - user manual
+    - grammar problem
 
 5. Team management (About 10 minutes)   
-- next formal meeting chairperson: shiliang
-- next formal meeting secretory: yani, yiming
+    - next formal meeting chairperson: shiliang
+    - next formal meeting secretory: yani, yiming
 
 
   <br>
@@ -109,4 +109,7 @@
 <br>
 
 ## Comments
+- Chairperson did not do enough work before the meeting, so mant time was spent on thinking, which can be avoided if the chairperson can provide some possible solutions. 
+- Be decisive. In today's meeting, many problems needed to be decided. But members do not have obvious tendency, many time was wasted waiting for an answer. Chairperson may need to decide in this situation.
+
 
