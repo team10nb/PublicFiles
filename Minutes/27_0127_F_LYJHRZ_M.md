@@ -107,4 +107,3 @@
 
 ## Comments
 
-- chairperson forget to prepare the meeting. risk management: overlay the meeting time, prepare with the secretory.

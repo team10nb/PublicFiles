@@ -224,78 +224,76 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 
 ## 项目时间线
 
-**9/30**
+9/30
 
 第一次informal meeting， 开始分配工作，互相了解小组成员，选择项目写bid
 
-**10/4**
+10/4
 
 第二次informal meeting，澄清bid相关事宜，优化，初版分享
 
-**10/6**
+10/6
 
 第三次informal meeting，bid审核，cv审核，准备提交
 
-**10/8**
+10/8
 
 中标20，准备相关工作，开始项目
 
-**10/10**
+10/10
 
 第四次informal meeting，准备第一次formal meeting相关问题
 
-**10/15**
+10/15
 
 第一次formal meeting，介绍小组成员，初步讨论项目规划以及需求
 
-**10/20**
+10/20
 
 第五次informal meeting，谈论了有关网站，ethics，requirements的事项，确认了目标人群，确定了问卷和访谈的市场调研方法
 
-**10/21**
+10/21
 
 完成初版ethics form，初版survey，初版consent form
 
-**10/22**
+10/22
 
 第二次formal meeting，询问了有关correctness的问题，澄清了有关requirement的要求，审批了初版survey，确定了ethics form
 
-**10/23**
+10/23
 
 发送了ethics form的邮件
 
-**10/24**
+10/24
 
 周报: 1.近阶段大家可以开始学习起来latex 2.礼拜二开会前大家想一下correctness的实现方案礼拜四要汇报确认的 3.搜集或者制作我们app有可能的不同风格界面用在问卷给user选 4.想一想采访老师的问题
 
-**10/27**
+10/27
 
 第六次informal meeting, 讨论了关于survey的细节和correctness的两种实现方案，准备写成文档在下次meeting的时候向heshan确认。确认了website的内容，已上线。想了几个功能，打算survey中向用户确认。有了interview的基本问题，需要明天向dave确认上交问题和问卷以什么形式附上。
 
-**10/28**
+10/28
 
 第三次formal meeting，确认了网站，确认了survey，确认了interview 的几个问题，确认了correctness一步步来，确认了requirement根据ppt写
 下阶段literature review以及准备期中报告，继续准备问卷和采访，注意要对我们产品有所帮助
 
-**11/3**
+11/3
 晨会讨论了各个ethics form的最后确认
 下午制作了最后的版本，并且邮件给了heshan
 第七次informal meeting，讨论了literature review 相关内容，分配了相关工作，然后讨论了focus group的安排，最后反馈了时间线的问题，并且提了一下需求的日程
 确认了literature review的格式，确认了文献摘录的来源并且确认了人员分配。检查了timeliness，确认了UML的运用。确认了focus group和interview的人员
 
-**11/4**
+11/4
 上传了ethics 附加的几个内容
 
-**11/5**
-
+11/5
 - 会议开始的时候上次的主持人来review，增加连贯性
 - literature 初版paragraph ddl定在2020/11/09 周一
 - Focus group的问题将在2020/11/06~2020/11/07间进一步的确定
 - Requirement的各项工作（包括Focus group、调查问卷、对老师的interview）及结果分析预计将在Dave审批结束后4~5天内结束
 
-**11/6**
+11/6
 周报：
-
 1. 大家还是趁着空闲时间学一下LaTex 比如用它来写我们的literature review
 2. literature review，我们的ddl定在了礼拜一之前，大家记得在礼拜一之前完成之后交付给yijie
 3. Yani负责的大一大二的focus group即将在明天进行，一定会顺利的！
@@ -304,24 +302,24 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 6. 礼拜二之前要准备好我们的几个小prototype，有想法的人准备用来给大家演示
 7. 下次的主持人是yiming，秘书是yijie，上阶段工作总结员是yani
 
-**11/7**
+11/7
 下午进行了大一与大二的focus group
 准备大三的
 
-**11/10**
+11/10
 
 开会，感觉到了废弃游戏也许heshan会不愿意，然后分了工。
 
 问卷分析、focus group分析、原型、采访等。
 
-**11/11**
+11/11
 
 关于近期：
 学姐说LR也好，requirements的document也好都是后期可以加的附加点，主要要把迭代做好，指导老师可能不是很懂，要去参考参考dave组的进度，或者我们去找dave聊一聊我们的时间安排，不管是迭代还是test，都要表现出来显得我们的process非常的完善，pre中会需要介绍到process，demo openday中要呈现完善的成果，基本功能一定要先完善好，一步步迭代到后期的创新，因为code会被看到，所以要有好的documentation，interim report用来追踪进度，final report会被dave看到，打分是各个老师在打，所以要让不懂得老师也能觉得我们做的东西很有用（我们可以现在就去找hengyu了解一下他的期待或者事先打预防针让他给我们打高分
 
 相关工具：teambition, trello, notion, tower.im, mendelay,还有学姐发布的template
 
-**11/12**
+11/12
 
 **Formal meeting:**
 
@@ -329,7 +327,7 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 - 询问了软件设计方向的问题，heshan认为偏向游戏或功能，这两者不冲突。但同意我们废弃奖励机制的想法。
 - 汇报了下之后会做的事情，interview和focus group，以及requirement gathering之后的事情。
 
-**11/17**
+11/17
 
 - 改进了requirement，但是correctness部分的功能还需要完善。
 - technical research的方向还需要讨论和敲定。
@@ -344,7 +342,7 @@ Markdown 格式简洁美观，导出 PDF 容易，方便记录。
 - Extend description of problem
 - risk management
 
-**11/25**
+11/25
 
 本次会议进程并不顺利，主要问题是会议主题是汇报工作和对汇报项的讨论和再分配
 但是进度并不顺利，分配的任务没有得到很好地完成
@@ -361,32 +359,34 @@ DMS课业负担过重
 进度或许需要在会议前与大家跟进
 会议主持人可以在会后一定时间段进行任务督促
 
-**1/7**
+1/7
 继续学习react, 汇总了一些学习资源
 
-**1/8**
+
+1/8
 
 完善设计细节,讨论了procedure页面的分页面跳转方式
 
-**1/9**
+
+1/9
 
 继续完善细节
 
-**1/13**
+1/13
 
 完成了井字棋的注释工作, 顺便学习了react的更多难点和细节
 
 准备下一阶段, 因此开始了完成井字棋附加任务的任务
 
-**1/20**
+1/20
 
 分组做了三个组件及其测试
 
-**1/27**
+1/27
 
 分两组分别做了UI和动画
 
-**2/3**
+2/3
 
 已完成任务总结：
 1. 完成了基础UI设计
@@ -396,14 +396,13 @@ DMS课业负担过重
 
 遇到的问题：
 1. 注释和测试格式不规范
-    解决方法：用documentation模板和testLog模板统一规范
+  解决方法：用documentation模板和testLog模板统一规范
 2. 整体进度比计划慢
 
   解决方法：目前未解决
 
-**2/10**
+2/10
 已完成任务总结：
-
 1. 完成了correctness的prototype设计
 2. 完成了correctness的基础页面制作
 3. 完成了heap sort 和quick sort
@@ -429,16 +428,3 @@ DMS课业负担过重
    - 通知有bug及时issue
 3. 整体进度比计划慢
    - 及时跟进进度报告
-
-**2/17**
-已完成任务总结：
-
-1. 完成了final report的大致计划，下次会议发布任务。
-2. 正在进行上阶段工作的完善。
-
-遇到的问题：
-
-1. 会议主持在开会前没有想好部分需要讨论问题的可能的方案，因此浪费了很多时间。
-   - 提前思考一下，给大家一些可能的方案，缩短思考时间。
-2. 会议主持不够果断，某些问题纠结了很长时间，会议不够有效率。
-   - 在这种情况下，会议主持可能需要成为那个做决定的人。
