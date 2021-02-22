@@ -123,7 +123,8 @@
 
 ## Comments
 
-（这部分归 Leader 写，内容：这次会议进展的是否如预期？会议本身是否有问题？如何解决？）
+> This is the first meeting during holiday, members are still adapting this new mode of working remotely, using internet. Chairperson needs to lead the meeting discussion. It is more difficult for chairperson to moderate a online meeting. More preparation is needed.
+
 
 
 
