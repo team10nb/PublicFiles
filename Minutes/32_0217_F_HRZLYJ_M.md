@@ -44,6 +44,31 @@
 
 ### Outcomes
 
+1. Review problems raised by supervisor last formal meeting
+	- time efficientcy would be deleted.
+	-  Input range reminding. Add to the inputbar.
+	-  refer language -> language.
+	-  not terminated? should be more specific.
+	-  efficiency: calculate real time.
+	-  argue mark: origional work
+		- Help popup: Introduce the software
+		- Language setting: Make learning possible for user with different language preference
+		- Modular learning: Improve understanding step by step
+		- Progress track: Help user track own learning progress, Stimulate learning interest
+		- Last accessed: Improve learning consistency
+		- Detailed step-by-step introduction
+		- explaination in operation
+
+2. What should we talk with Dave
+   time: 2.24
+   talk to heshan before
+3. Discuss correctness part's specific design
+	- correctness defination use pop box: what is legal input?
+	- termination: i++ console change 
+	- 
+	- 
+4. Confirm the fixed time of formal meeting
+5. Rasing questions and allocate tasks of next stage
 
 
 
