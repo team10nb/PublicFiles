@@ -37,7 +37,7 @@
 	- Confirm the chairperson and secretary of next meeting
 	- Decide the specific time of next meeting
 	- Review all new action points, confirm and go through next stage's tasks
-
+    
 ------
 
 ## Minute
@@ -65,8 +65,6 @@
 3. Discuss correctness part's specific design
 	- correctness defination use pop box: what is legal input?
 	- termination: i++ console change 
-	- 
-	- 
 4. Confirm the fixed time of formal meeting
 5. Rasing questions and allocate tasks of next stage
 
@@ -74,23 +72,19 @@
 
 
 <br>
-
 ------
-
-### Last stage's action points review
-
-| **Task** | **Members** | **Report** | **Question** | **Completeness** |
-| -------- | ----------- | ---------- | ------------ | ---------------- |
-||||||
-
 
 
 ### Action points
 
 | **Task** | **Members** | **DDL** |
 | -------- | ----------- | ------- |
-||||
-
+|merge sort and heap sort|yani, yiming|2.28|
+|correctness example, defination UI|yuting|2.28|
+|button picture, correctness comparision|yiming|2.28|
+|correctness picture|shiliang|2.28|
+|input page|shiliang,yijie||
+|termination, input explanatiion box|ruizi||
 ------
 
 <br>
