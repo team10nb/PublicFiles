@@ -1,4 +1,4 @@
-# Team 10 - 19th Meeting 
+# Team 10 - 31th Meeting 
 
 <br>
 
@@ -58,7 +58,7 @@
    - Yani demonstrate the proto of correctness
    - validate requirements
   
-4. Interim report feedback and discussion (18m)
+4. Interim report feedback and discussion
    - Ruizi and Yijie talk about interim report feedback
 
 5. After meeting
