@@ -74,10 +74,15 @@
 2. Yuting introduced the current demo to Heshan, and she thinks 
    1. // complexity, worst case, average and best case.
    2. space complexity why big oh of 1.
+   删掉
    3. looks very nice.
+   谢谢
    4. negative number, valid range should be told.
+   在上方加一下
    5. setting: preferred language
+   改成language，BGM，
    6. interface
+   
 3. Yani introduced prototype of correctness
    1. not terminated algorithm 这句话也需要改一下
    2. later use this software to teach ACE.
@@ -85,9 +90,10 @@
    1. sorting algorithms finished
    2. talk about (performance/legal input?) in ??????, not here(???), provide guidance and legal input to user
 5. 1. if generate the input automatically, size of input? efficiency, large input what should happen. 用户输的数字太多了怎么办（缩小？）
-   2. efficiency, maybe record the real time.
-   3. space complexity, depending on data structure. time complexity based on how to implement that. 
-   4. create array based on the array size. (?)
+   1. efficiency, maybe record the real time.
+   2. space complexity, depending on data structure. time complexity based on how to implement that. 
+   删掉不管
+   3. create array based on the array size. (?)
 6. interim report feedback
    1. 问：feedback general. is there anything wrong? good job. we want to get detailed fb. 答：i dont know why 70+. very small number of students 80+. Quite difficult to give mark above 80. 70+ Highest mark to give. See **original work**. 
    2. 他其实是觉得给多了。这是他给过的给interim report最高的分了？要得高分，你需要证明有 original contribution、teaching delivery、existing works，justification。
