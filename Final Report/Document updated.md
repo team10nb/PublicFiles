@@ -95,3 +95,19 @@ point2 implementation
 为什么成功的关键: 优先级制度
 26次英文版
 29次m版
+
+1.requirement重修(一人）
+功能删减
+语法检查
+userstory。。。图修改(之前的人）
+2，prototype绘制(一人）
+包括：之前interim report，correctness， tutorial
+explanation
+语法检查
+3.Test新版块书写(两人）
+TDD，CI介绍
+语法检查
+把大家目前的test整理到一张表格里，之后也负责这个工作
+4.Implementation新板块书写(两人)
+用户界面的介绍(已有界面)
+procedure, correctness
