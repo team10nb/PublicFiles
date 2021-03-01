@@ -75,3 +75,19 @@
 <br>
 
 ## Comments
+
+team10
+
+heshan
+
+sorting algo visuali
+
+at the end of : requirement and desing, not coding at all
+
+during the break, we decided and learned about the tools, and start coding
+
+its runnable and we ve done half
+
+this semester, we will finish all the basic functionalities
+
+problem: onine is not efficiency, could not clarify problem and solve it in time 

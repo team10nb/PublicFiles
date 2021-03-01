@@ -90,4 +90,4 @@
 <br>
 
 ## Comments
-
+> The meeting went well in general. When members are all silent, chairperson may need to give some words to let discussion go on.
