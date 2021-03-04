@@ -7,16 +7,7 @@
 
 ### 近期Deadline: 
 
-**11.22**
-
-- 市场调研结果返工查问题（语法和逻辑结构）
-- literature review 返工查问题（语法和逻辑结构）
-- requirement 完成和查问题
-- technical research 进行
-
-**12.10** 
-
-- Interim Report
+![schedule](C:\Users\csl12\OneDrive\Doc\Uni-S5\1-Software Engineering Group Project 2043\PublicFiles\Images\schedule.png)
 
 ### 近期重点任务:
 
@@ -460,4 +451,5 @@ DMS课业负担过重
 2. 确定了correctness页面的详细设计并分配了任务。
 
 遇到的问题：
+
 1. final report暂时搁置了
