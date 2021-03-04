@@ -451,5 +451,12 @@ DMS课业负担过重
 2. 确定了correctness页面的详细设计并分配了任务。
 
 遇到的问题：
-
 1. final report暂时搁置了
+
+**3/1**
+已完成任务总结：
+1. 更新了requirement，所有的剩余requirement都在计划中
+2. 开始设计Tutorial
+
+遇到的问题：
+1. Correctness Tutorial 的部分设计heshan并不满意，需要修改
