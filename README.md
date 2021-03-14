@@ -455,8 +455,27 @@ DMS课业负担过重
 
 **3/1**
 已完成任务总结：
+
 1. 更新了requirement，所有的剩余requirement都在计划中
 2. 开始设计Tutorial
 
 遇到的问题：
 1. Correctness Tutorial 的部分设计heshan并不满意，需要修改
+
+**3/12**
+
+已完成任务总结：
+
+1. 更新了requirement，uml
+2. tutroial 除了terminology部分都完成了
+3. correctness的tutorial还差两个图文部分
+4. procedure的图标问题基本解决
+
+遇到的问题：
+
+1. 会议中有讨论未完成事项的可能影响会议进程和效率
+2. 会议记录整理速度较慢可能导致任务忘记,分配不及时导致晚交迟交
+3. 任务在周中未提醒导致有最后一天才发现有这个任务
+4. issue们越积越多,refactor任务不重视,积攒过多,documentation质量不佳
+5. 及早进行report,分批次给heshan看
+6. ddl定下不能拖了,给出实际时间
