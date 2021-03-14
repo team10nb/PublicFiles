@@ -111,3 +111,52 @@ TDD，CI介绍
 4.Implementation新板块书写(两人)
 用户界面的介绍(已有界面)
 procedure, correctness
+
+3.14
+
+1. 4 Design
+1) 4.1 Use Case Diagram 4.2 Sequence Diagram Yini DDL: 3.16前上传图片版 Yijie 改注释 DDL: 3. 19 19:00前 
+2) 4.4 新板块的书写  
+  上次布置任务继续写 DDL: 3. 19 19:00前 
+  Implementation graphical user interface-animation ruizi，shiliang
+  Implementation graphical user interface-local storage yuting 
+  Implementation graphical user interface-router yijie 
+  Implementation graphical user interface-sort yiming yani
+
+2. 5 Implementation
+1) 5.1 Key Implementation Decisions: 
+    - 5.1.2 Programming Language and Software Framework
+    删除back-end
+    - 5.1.3 Build Tool，5.1.5 Integrated Development Environment
+    因为都是java的内容，要改成react和js
+2) 5.2 High-Fidelity Prototype: Yiming Tang DDL: 3. 19 19:00前 
+3) 5.3 新板块书写(两人)
+procedure: Yuting DDL: 3. 19 19:00前 
+tutorial: 三个页面由author分别写，shiliang：swap，ruizi：loop，yani：terminology DDL: 根据页面的完成情况自行调整
+mainPage: Yijie DDL: 3. 19 19:00前 
+
+3. Grammar 校对
+yiming DDL: 3. 19 19:00前
+根据hesan给的feedback，修改原先的语法问题，不用改的部分：
+3 全部
+4 4.1，4.2
+5 5.1.2，5.1.3，5.1.5  
+
+4. Requirement
+
+| **Task**                                              | **Members**                 | **DDL** |
+| ----------------------------------------------------- | --------------------------- | ------- |
+| Key Implementation Decisions                          | Ruizi Han                   |/        | 
+| loop User Interface                                   | Ruizi Han                   |/        | 
+| swap User Interface                                   | Shiliang Chen               |/        |
+| Implementation graphical user interface-animation     | Ruizi Han, Shiliang Chen    |3.19     |
+| Implementation graphical user interface-local storage | Yuting Jiang                |3.19     |
+| Procedure User Interface                              | Yuting Jiang                |3.19     | 
+| Implementation graphical user interface-router        | Yijie LU                    |3.19     |
+| DML explanation                                       | Yijie Lu                    |3.19     |
+| MainPage User Interface                               | Yijie Lu                    |3.19     | 
+| terminology User Interface                            | Yani Huang                  |/        | 
+| UML packege                                           | Yani Huang                  |3.19     |
+| Gramar Check                                          | Yiming Tang                 |3.19     |
+| Prototype                                             | Yiming Tang                 |3.19     |
+| Implementation graphical user interface-sort          | Yiming Tang，Yani Huang     |3.19     |
