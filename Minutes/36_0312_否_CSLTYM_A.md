@@ -81,6 +81,8 @@
       
       tutorial design terms
       
+   - 照着ipa写的发群里看看
+   
    - Yiming Tang
      
       Design prototype
@@ -97,6 +99,8 @@
 3. Work for the next stage
 
    grammarly的购买
+
+   未merge的branch
 
    根据requirements查看可以做的新功能和需要修补的问题
 
