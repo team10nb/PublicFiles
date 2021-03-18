@@ -37,21 +37,18 @@
       yijie finish help
       shiliang with ppt resolution
    - Test and final report plan
-      algorithm 组的test
-      ui 组的test
-      test plan和log的补充完成
-      接下来shiliang和yijie会安排一下final report相关事宜
+      algorithm test
+      ui test
+      test plan and log
+      final report
 2. Integrate current progress
-   已经完成了main的初版
+   primary main version
 3. Correctness and procedure-implementation design 
-   原型基本设计完毕
-   yijie那边有了新的进展
-4. JsxDoc 接着完成
-5. issue: bug上报, 完成事项放到该放的位置上
+   basically done prototype
+4. JsxDoc continue
+5. issue: bug
 6. After meeting
-   - 下周主持人和秘书安排
-   - gantt和timeline更新
-   - 发送heshan邮件 汇报和新年问候
+
    
 
 
