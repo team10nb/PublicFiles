@@ -137,9 +137,9 @@
 | presentation script - opening and summarise                  | Ruizi Han               | Latest!! 4.1 |
 | presentation script - first 4 parts                          | Yani Huang              | Latest!! 4.1 |
 | presentation script - last 2 parts                           | Yijie Lu                | Latest!! 4.1 |
-| pre part3 - time management, requirement gathering, related knowledge | Yuting Jiang            | Latest!! 4.1 |
-| pre part3 - structure                                        | Yiming Tang             | Latest!! 4.1 |
-| pre part3 - testing, agile, code                             | Shiliang Chen           | Latest!! 4.1 |
+| presentation script - time management, requirement gathering, related knowledge | Yuting Jiang            | Latest!! 4.1 |
+| presentation script - structure                              | Yiming Tang             | Latest!! 4.1 |
+| presentation script - testing, agile, code                   | Shiliang Chen           | Latest!! 4.1 |
 | user manual - procedure mainpage, bubble sort and first in   | Yani Huang              | 26           |
 | software icon basic design                                   | Yiming Tang             | 22           |
 | write the final report structure                             | Yuting Jiang            | 21           |
