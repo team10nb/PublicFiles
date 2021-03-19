@@ -36,8 +36,6 @@
 
 ​				a. Yiming’s images and icons. 
 
-​							()
-
 ​				b. Yijie’s correctness introduction page
 
 ​				c. Yuting’s example change
@@ -76,13 +74,6 @@ That's all for today. Thank you!
 
 ### Outcomes
 
-1. Change the size of a translucent image
-2. Yuting add pictures, algorithm name change, partial and total with examples
-3. The volume table is displayed vertically。
-4. The last improvement after Yani heap
-5. DDL for the final report draft is 3.31
-6. The feedback quality can be improved by the way of structure first and then chapter by chapter to Heshan.
-
 
 
 
@@ -103,3 +94,6 @@ That's all for today. Thank you!
 
 ## Comments
 
+今天刚好30分钟，节奏还掌握的比较好。
+
+我一开始认为时间这个不够。
