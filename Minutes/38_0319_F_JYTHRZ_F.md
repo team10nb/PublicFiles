@@ -148,4 +148,9 @@
 ------
 
 ## Comments
+1. DDLs cannot be completed on time, affecting the whole progress
+
+2. It takes more time to distribute the work
+
+3. Progress of the report is slow
 
