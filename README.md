@@ -479,3 +479,19 @@ DMS课业负担过重
 4. issue们越积越多,refactor任务不重视,积攒过多,documentation质量不佳
 5. 及早进行report,分批次给heshan看
 6. ddl定下不能拖了,给出实际时间
+
+
+**3/19**
+
+已完成任务总结：
+
+1. 增加了页面过渡动画
+2. correctness的tutorial完成
+3. tutorial 和 correctness 图标完成
+4. 三个recording脚本框架基本完成
+
+遇到的问题：
+
+1. 每周的工作不能全部按时完成，影响整体进度
+2. 分配工作花费的时间较多
+3. report进展缓慢
