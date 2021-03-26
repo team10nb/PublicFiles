@@ -15,16 +15,9 @@ Estimated phases
 
 3. Implementation 12.7 - 2.22
     3.1 Create testing structure  12.7 - 12.13
-    3.2 
-    3.3 
-    3.4 
-    3.5 
-    3.6 
-    3.7 
-    3.8 
-    3.9 
-    3.10 GUI
-
+    3.2 - 3.~
+    3.~ GUI
+    
 4. Reports 
     4.1 Interim Report 11.2 - 12.6
     4.2 Final Report 3.1 - 4.8
