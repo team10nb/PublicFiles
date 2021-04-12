@@ -71,14 +71,14 @@ Team 10 - 43th Meeting
    - mainly focus on yourself, not evaluation of the whole project
    - from your own perspective, what you might think about the project
    - well structured, well presented
-   - what you really understand what you've done, your contribution
+   - do you really understand what you've done, your contribution
    
    - contribution: developing the software
    
    - what you did, what you learnt
    - How to improve the skills
    
-   - whether has independent thinking, show own views and opions
+   - whether has independent thinking, show own views and opinions
    
 6. training of the Q&A
    - the aim of the software
